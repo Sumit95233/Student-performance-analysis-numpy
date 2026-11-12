@@ -1,0 +1,1001 @@
+﻿student_id,name,email,age,gender,department,semester,city,mathematics,physics,programming,database_management,english,total_marks,max_marks,percentage,grade,academic_result,enrollment_year,scholarship
+CU20260001,Diya Bhatia,diya.bhatia0001@student.example.com,22,Male,Business Administration,4,Dehradun,97,78,71,71,86,403,500,80.60000000000001,B,Pass,2026,No
+CU20260002,Arjun Chauhan,arjun.chauhan0002@student.example.com,19,Male,Electronics & Communication,1,Shimla,62,60,72,61,60,315,500,63.0,D,Pass,2026,No
+CU20260003,Rohan Arora,rohan.arora0003@student.example.com,20,Male,Civil Engineering,7,Shimla,87,62,94,79,69,391,500,78.2,C,Pass,2026,No
+CU20260004,Simran Verma,simran.verma0004@student.example.com,19,Male,Business Administration,8,Jaipur,70,62,67,76,75,350,500,70.0,C,Pass,2022,No
+CU20260005,Riya Kaur,riya.kaur0005@student.example.com,18,Male,Computer Science,8,Lucknow,69,56,73,57,61,316,500,63.2,D,Pass,2025,No
+CU20260006,Arjun Arora,arjun.arora0006@student.example.com,22,Male,Information Technology,6,Ludhiana,70,79,87,81,62,379,500,75.8,C,Pass,2025,No
+CU20260007,Arjun Mishra,arjun.mishra0007@student.example.com,20,Male,Information Technology,5,Shimla,78,87,89,94,64,412,500,82.39999999999999,B,Pass,2026,No
+CU20260008,Nisha Malhotra,nisha.malhotra0008@student.example.com,20,Female,Business Administration,7,Patiala,65,80,72,76,83,376,500,75.2,C,Pass,2022,No
+CU20260009,Saanvi Singh,saanvi.singh0009@student.example.com,22,Female,Civil Engineering,7,Lucknow,69,89,62,80,72,372,500,74.4,C,Pass,2022,No
+CU20260010,Simran Kaur,simran.kaur0010@student.example.com,23,Male,Information Technology,8,Dehradun,65,62,81,86,65,359,500,71.8,C,Pass,2025,No
+CU20260011,Riya Gupta,riya.gupta0011@student.example.com,21,Female,Electronics & Communication,7,Jalandhar,73,68,81,74,48,344,500,68.8,D,Pass,2026,No
+CU20260012,Mohit Gill,mohit.gill0012@student.example.com,21,Female,Civil Engineering,6,Amritsar,61,49,52,61,69,292,500,58.4,E,Pass,2025,Yes
+CU20260013,Aarav Chauhan,aarav.chauhan0013@student.example.com,20,Female,Computer Science,2,Lucknow,77,48,59,75,58,317,500,63.4,D,Pass,2024,No
+CU20260014,Jaspreet Mishra,jaspreet.mishra0014@student.example.com,21,Female,Mechanical Engineering,6,Shimla,55,57,54,58,63,287,500,57.4,E,Pass,2024,No
+CU20260015,Rahul Kumar,rahul.kumar0015@student.example.com,21,Female,Computer Science,2,Ludhiana,63,64,20,49,56,252,500,50.4,E,Pass,2022,No
+CU20260016,Harpreet Das,harpreet.das0016@student.example.com,21,Female,Electronics & Communication,1,Karnal,64,44,85,47,49,289,500,57.8,E,Pass,2023,No
+CU20260017,Harpreet Joshi,harpreet.joshi0017@student.example.com,21,Female,Information Technology,2,Shimla,76,66,78,80,72,372,500,74.4,C,Pass,2024,No
+CU20260018,Ananya Bhatia,ananya.bhatia0018@student.example.com,20,Male,Information Technology,7,Ambala,66,62,92,91,82,393,500,78.60000000000001,C,Pass,2023,Yes
+CU20260019,Simran Sharma,simran.sharma0019@student.example.com,19,Female,Mechanical Engineering,2,Dehradun,47,44,48,46,60,245,500,49.0,F,Fail,2024,No
+CU20260020,Saanvi Sharma,saanvi.sharma0020@student.example.com,20,Male,Mechanical Engineering,7,Dehradun,75,62,78,64,84,363,500,72.6,C,Pass,2024,No
+CU20260021,Saanvi Kumar,saanvi.kumar0021@student.example.com,20,Female,Mechanical Engineering,8,Dehradun,72,64,66,71,61,334,500,66.8,D,Pass,2023,No
+CU20260022,Simran Chauhan,simran.chauhan0022@student.example.com,20,Male,Civil Engineering,5,Lucknow,79,59,79,81,79,377,500,75.4,C,Pass,2024,No
+CU20260023,Aarav Gupta,aarav.gupta0023@student.example.com,23,Male,Electronics & Communication,4,Karnal,90,86,92,71,70,409,500,81.8,B,Pass,2024,No
+CU20260024,Gurpreet Shah,gurpreet.shah0024@student.example.com,20,Male,Computer Science,3,Karnal,56,42,48,47,51,244,500,48.8,F,Fail,2023,No
+CU20260025,Arjun Gupta,arjun.gupta0025@student.example.com,23,Male,Information Technology,1,Delhi,67,58,60,75,67,327,500,65.4,D,Pass,2026,No
+CU20260026,Neha Reddy,neha.reddy0026@student.example.com,19,Male,Information Technology,2,Dehradun,59,73,74,61,60,327,500,65.4,D,Pass,2023,No
+CU20260027,Riya Sharma,riya.sharma0027@student.example.com,23,Male,Computer Science,6,Delhi,77,76,79,75,76,383,500,76.6,C,Pass,2025,No
+CU20260028,Jaspreet Kumar,jaspreet.kumar0028@student.example.com,19,Male,Mechanical Engineering,4,Ludhiana,79,78,80,77,78,392,500,78.4,C,Pass,2024,No
+CU20260029,Ananya Saini,ananya.saini0029@student.example.com,20,Male,Computer Science,3,Ludhiana,71,74,76,63,75,359,500,71.8,C,Pass,2024,No
+CU20260030,Karan Mehta,karan.mehta0030@student.example.com,21,Male,Business Administration,7,Amritsar,61,77,80,87,83,388,500,77.60000000000001,C,Pass,2024,No
+CU20260031,Meera Kaur,meera.kaur0031@student.example.com,22,Male,Information Technology,4,Ludhiana,56,64,56,69,100,345,500,69.0,D,Pass,2024,No
+CU20260032,Aarav Verma,aarav.verma0032@student.example.com,21,Male,Information Technology,1,Delhi,75,81,69,92,80,397,500,79.4,C,Pass,2025,No
+CU20260033,Karan Gupta,karan.gupta0033@student.example.com,20,Female,Business Administration,3,Patiala,32,53,54,37,53,229,500,45.800000000000004,F,Fail,2026,No
+CU20260034,Isha Mehta,isha.mehta0034@student.example.com,21,Female,Mechanical Engineering,5,Amritsar,71,77,91,78,86,403,500,80.60000000000001,B,Pass,2023,No
+CU20260035,Meera Nair,meera.nair0035@student.example.com,20,Male,Business Administration,5,Amritsar,70,67,85,77,84,383,500,76.6,C,Pass,2023,No
+CU20260036,Aarav Shah,aarav.shah0036@student.example.com,21,Male,Computer Science,4,Shimla,49,63,73,70,61,316,500,63.2,D,Pass,2023,No
+CU20260037,Neha Kumar,neha.kumar0037@student.example.com,21,Female,Information Technology,3,Shimla,27,40,47,49,48,211,500,42.199999999999996,F,Fail,2024,Yes
+CU20260038,Nisha Joshi,nisha.joshi0038@student.example.com,21,Male,Civil Engineering,5,Karnal,62,60,61,82,67,332,500,66.4,D,Pass,2023,No
+CU20260039,Manpreet Mishra,manpreet.mishra0039@student.example.com,21,Male,Computer Science,6,Jaipur,74,53,84,68,76,355,500,71.0,C,Pass,2025,No
+CU20260040,Abhishek Reddy,abhishek.reddy0040@student.example.com,20,Male,Mechanical Engineering,5,Ambala,88,91,80,100,100,459,500,91.8,A,Pass,2024,Yes
+CU20260041,Navya Saini,navya.saini0041@student.example.com,22,Male,Mechanical Engineering,6,Dehradun,62,66,69,42,62,301,500,60.199999999999996,D,Pass,2025,No
+CU20260042,Yash Joshi,yash.joshi0042@student.example.com,21,Female,Information Technology,7,Pune,68,62,70,72,81,353,500,70.6,C,Pass,2024,No
+CU20260043,Meera Mehta,meera.mehta0043@student.example.com,21,Male,Computer Science,2,Mohali,58,42,61,39,48,248,500,49.6,F,Fail,2024,Yes
+CU20260044,Gurpreet Sharma,gurpreet.sharma0044@student.example.com,21,Male,Information Technology,2,Shimla,66,82,68,84,76,376,500,75.2,C,Pass,2023,No
+CU20260045,Arjun Sharma,arjun.sharma0045@student.example.com,21,Female,Electronics & Communication,5,Karnal,69,69,81,78,94,391,500,78.2,C,Pass,2025,No
+CU20260046,Yash Kaur,yash.kaur0046@student.example.com,22,Male,Information Technology,2,Patiala,67,66,65,58,81,337,500,67.4,D,Pass,2024,No
+CU20260047,Isha Kumar,isha.kumar0047@student.example.com,19,Female,Electronics & Communication,4,Amritsar,65,52,81,58,72,328,500,65.60000000000001,D,Pass,2025,No
+CU20260048,Meera Verma,meera.verma0048@student.example.com,21,Male,Business Administration,2,Shimla,59,62,95,70,75,361,500,72.2,C,Pass,2026,No
+CU20260049,Arjun Arora,arjun.arora0049@student.example.com,19,Female,Computer Science,5,Jaipur,79,69,82,83,94,407,500,81.39999999999999,B,Pass,2024,No
+CU20260050,Ananya Gill,ananya.gill0050@student.example.com,18,Male,Computer Science,1,Patiala,77,64,67,59,62,329,500,65.8,D,Pass,2023,No
+CU20260051,Diya Arora,diya.arora0051@student.example.com,19,Male,Civil Engineering,8,Chandigarh,33,39,56,71,61,260,500,52.0,E,Pass,2023,No
+CU20260052,Vivaan Gill,vivaan.gill0052@student.example.com,20,Male,Mechanical Engineering,8,Dehradun,77,85,77,70,75,384,500,76.8,C,Pass,2024,No
+CU20260053,Aarav Reddy,aarav.reddy0053@student.example.com,22,Female,Computer Science,4,Jaipur,56,64,67,65,68,320,500,64.0,D,Pass,2024,No
+CU20260054,Jaspreet Sharma,jaspreet.sharma0054@student.example.com,21,Male,Electronics & Communication,5,Mohali,31,40,46,44,50,211,500,42.199999999999996,F,Fail,2023,Yes
+CU20260055,Aditya Das,aditya.das0055@student.example.com,23,Male,Information Technology,2,Ambala,96,91,98,96,90,471,500,94.19999999999999,A,Pass,2025,No
+CU20260056,Arjun Shah,arjun.shah0056@student.example.com,20,Female,Computer Science,1,Karnal,82,68,76,59,81,366,500,73.2,C,Pass,2025,No
+CU20260057,Aanya Singh,aanya.singh0057@student.example.com,20,Female,Computer Science,3,Pune,50,26,53,41,48,218,500,43.6,F,Fail,2026,Yes
+CU20260058,Isha Kumar,isha.kumar0058@student.example.com,20,Female,Information Technology,7,Patiala,89,69,73,94,63,388,500,77.60000000000001,C,Pass,2025,No
+CU20260059,Meera Sharma,meera.sharma0059@student.example.com,19,Male,Civil Engineering,5,Delhi,62,66,73,40,61,302,500,60.4,D,Pass,2026,No
+CU20260060,Abhishek Verma,abhishek.verma0060@student.example.com,20,Male,Electronics & Communication,4,Jalandhar,71,90,86,94,69,410,500,82.0,B,Pass,2024,No
+CU20260061,Rohan Reddy,rohan.reddy0061@student.example.com,20,Female,Computer Science,5,Pune,63,54,47,56,64,284,500,56.8,E,Pass,2025,No
+CU20260062,Saanvi Malhotra,saanvi.malhotra0062@student.example.com,20,Male,Computer Science,8,Jalandhar,78,99,92,98,92,459,500,91.8,A,Pass,2024,Yes
+CU20260063,Sahil Verma,sahil.verma0063@student.example.com,20,Male,Computer Science,2,Patiala,63,75,94,73,77,382,500,76.4,C,Pass,2025,Yes
+CU20260064,Isha Mishra,isha.mishra0064@student.example.com,23,Male,Computer Science,6,Jalandhar,64,58,69,62,52,305,500,61.0,D,Pass,2024,Yes
+CU20260065,Sahil Bhatia,sahil.bhatia0065@student.example.com,21,Female,Business Administration,3,Jaipur,64,66,100,80,79,389,500,77.8,C,Pass,2025,No
+CU20260066,Manpreet Das,manpreet.das0066@student.example.com,21,Female,Information Technology,5,Lucknow,56,40,47,54,41,238,500,47.599999999999994,F,Fail,2024,No
+CU20260067,Neha Gill,neha.gill0067@student.example.com,24,Male,Information Technology,6,Chandigarh,76,81,86,74,84,401,500,80.2,B,Pass,2026,No
+CU20260068,Yash Verma,yash.verma0068@student.example.com,22,Male,Information Technology,3,Patiala,66,78,88,70,94,396,500,79.2,C,Pass,2024,No
+CU20260069,Sahil Gill,sahil.gill0069@student.example.com,20,Female,Computer Science,7,Pune,74,69,67,83,80,373,500,74.6,C,Pass,2023,No
+CU20260070,Rahul Saini,rahul.saini0070@student.example.com,20,Male,Computer Science,5,Jaipur,65,69,67,76,82,359,500,71.8,C,Pass,2025,No
+CU20260071,Vivaan Arora,vivaan.arora0071@student.example.com,22,Male,Information Technology,8,Ludhiana,72,58,92,56,77,355,500,71.0,C,Pass,2022,No
+CU20260072,Diya Singh,diya.singh0072@student.example.com,21,Male,Computer Science,8,Ludhiana,51,57,68,50,61,287,500,57.4,E,Pass,2025,No
+CU20260073,Neha Mehta,neha.mehta0073@student.example.com,20,Male,Business Administration,5,Mohali,100,56,78,63,50,347,500,69.39999999999999,D,Pass,2024,No
+CU20260074,Vivaan Reddy,vivaan.reddy0074@student.example.com,21,Female,Information Technology,2,Patiala,60,65,60,55,73,313,500,62.6,D,Pass,2022,No
+CU20260075,Jaspreet Nair,jaspreet.nair0075@student.example.com,20,Male,Civil Engineering,6,Ambala,56,77,65,66,76,340,500,68.0,D,Pass,2023,No
+CU20260076,Karan Chauhan,karan.chauhan0076@student.example.com,20,Male,Computer Science,2,Jalandhar,75,90,98,93,74,430,500,86.0,B,Pass,2023,No
+CU20260077,Simran Shah,simran.shah0077@student.example.com,24,Male,Information Technology,4,Amritsar,59,79,93,96,63,390,500,78.0,C,Pass,2022,Yes
+CU20260078,Harpreet Gupta,harpreet.gupta0078@student.example.com,21,Male,Information Technology,2,Delhi,89,79,80,91,81,420,500,84.0,B,Pass,2022,No
+CU20260079,Aman Chauhan,aman.chauhan0079@student.example.com,20,Female,Electronics & Communication,6,Patiala,63,74,59,61,68,325,500,65.0,D,Pass,2024,No
+CU20260080,Diya Sharma,diya.sharma0080@student.example.com,20,Female,Mechanical Engineering,4,Jalandhar,86,74,54,69,83,366,500,73.2,C,Pass,2025,No
+CU20260081,Ishaan Reddy,ishaan.reddy0081@student.example.com,20,Female,Business Administration,4,Dehradun,79,63,80,82,80,384,500,76.8,C,Pass,2026,No
+CU20260082,Saanvi Das,saanvi.das0082@student.example.com,21,Male,Computer Science,4,Jalandhar,86,75,87,81,86,415,500,83.0,B,Pass,2022,No
+CU20260083,Aditya Malhotra,aditya.malhotra0083@student.example.com,21,Male,Electronics & Communication,3,Lucknow,65,50,66,51,49,281,500,56.2,E,Pass,2025,No
+CU20260084,Saanvi Verma,saanvi.verma0084@student.example.com,22,Female,Information Technology,8,Delhi,77,90,62,83,72,384,500,76.8,C,Pass,2023,No
+CU20260085,Ananya Joshi,ananya.joshi0085@student.example.com,20,Female,Information Technology,1,Delhi,75,94,74,79,87,409,500,81.8,B,Pass,2026,Yes
+CU20260086,Aanya Arora,aanya.arora0086@student.example.com,19,Female,Computer Science,4,Ambala,82,68,77,76,81,384,500,76.8,C,Pass,2024,No
+CU20260087,Aditya Das,aditya.das0087@student.example.com,20,Male,Business Administration,3,Pune,25,24,38,24,40,151,500,30.2,F,Fail,2024,No
+CU20260088,Mohit Sharma,mohit.sharma0088@student.example.com,20,Female,Electronics & Communication,6,Delhi,78,78,91,91,80,418,500,83.6,B,Pass,2023,No
+CU20260089,Arjun Gupta,arjun.gupta0089@student.example.com,20,Female,Computer Science,7,Ambala,62,75,71,75,71,354,500,70.8,C,Pass,2025,No
+CU20260090,Aditya Reddy,aditya.reddy0090@student.example.com,20,Female,Computer Science,4,Ludhiana,54,64,59,81,71,329,500,65.8,D,Pass,2024,No
+CU20260091,Yash Bhatia,yash.bhatia0091@student.example.com,18,Female,Mechanical Engineering,2,Chandigarh,52,57,52,55,62,278,500,55.60000000000001,E,Pass,2025,No
+CU20260092,Kavya Gill,kavya.gill0092@student.example.com,21,Male,Information Technology,7,Ambala,98,80,100,100,96,474,500,94.8,A,Pass,2026,No
+CU20260093,Meera Mishra,meera.mishra0093@student.example.com,23,Female,Business Administration,5,Karnal,80,69,73,80,93,395,500,79.0,C,Pass,2025,No
+CU20260094,Sahil Patel,sahil.patel0094@student.example.com,20,Female,Information Technology,2,Jalandhar,66,73,69,76,71,355,500,71.0,C,Pass,2026,No
+CU20260095,Isha Kumar,isha.kumar0095@student.example.com,21,Male,Mechanical Engineering,3,Mohali,60,63,70,60,62,315,500,63.0,D,Pass,2026,No
+CU20260096,Kavya Kumar,kavya.kumar0096@student.example.com,21,Male,Information Technology,6,Amritsar,75,68,72,67,70,352,500,70.39999999999999,C,Pass,2025,No
+CU20260097,Kavya Singh,kavya.singh0097@student.example.com,22,Male,Computer Science,4,Shimla,100,99,89,81,98,467,500,93.4,A,Pass,2025,Yes
+CU20260098,Gurpreet Kaur,gurpreet.kaur0098@student.example.com,23,Male,Business Administration,4,Delhi,95,67,75,80,76,393,500,78.60000000000001,C,Pass,2026,No
+CU20260099,Navya Reddy,navya.reddy0099@student.example.com,22,Male,Computer Science,1,Pune,78,81,71,74,77,381,500,76.2,C,Pass,2025,No
+CU20260100,Diya Das,diya.das0100@student.example.com,20,Female,Computer Science,7,Amritsar,54,32,41,65,65,257,500,51.4,E,Pass,2023,No
+CU20260101,Meera Das,meera.das0101@student.example.com,22,Female,Civil Engineering,7,Jaipur,46,89,69,62,83,349,500,69.8,D,Pass,2025,No
+CU20260102,Sahil Mishra,sahil.mishra0102@student.example.com,20,Male,Civil Engineering,3,Chandigarh,75,85,68,67,79,374,500,74.8,C,Pass,2025,No
+CU20260103,Aanya Mehta,aanya.mehta0103@student.example.com,20,Male,Computer Science,7,Chandigarh,86,73,92,97,85,433,500,86.6,B,Pass,2024,No
+CU20260104,Abhishek Verma,abhishek.verma0104@student.example.com,20,Female,Computer Science,6,Karnal,36,52,44,57,56,245,500,49.0,F,Fail,2025,No
+CU20260105,Aman Kumar,aman.kumar0105@student.example.com,22,Female,Computer Science,5,Amritsar,64,66,58,73,67,328,500,65.60000000000001,D,Pass,2024,Yes
+CU20260106,Sahil Sharma,sahil.sharma0106@student.example.com,21,Female,Information Technology,5,Pune,88,74,72,81,96,411,500,82.19999999999999,B,Pass,2026,No
+CU20260107,Riya Gupta,riya.gupta0107@student.example.com,21,Male,Information Technology,4,Karnal,77,70,75,76,77,375,500,75.0,C,Pass,2023,No
+CU20260108,Mohit Gupta,mohit.gupta0108@student.example.com,21,Male,Mechanical Engineering,2,Chandigarh,73,60,67,93,73,366,500,73.2,C,Pass,2026,No
+CU20260109,Rahul Chauhan,rahul.chauhan0109@student.example.com,19,Female,Computer Science,7,Chandigarh,47,60,66,33,73,279,500,55.800000000000004,E,Pass,2026,No
+CU20260110,Yash Verma,yash.verma0110@student.example.com,20,Female,Computer Science,2,Ambala,69,38,64,80,49,300,500,60.0,D,Pass,2024,No
+CU20260111,Aditya Nair,aditya.nair0111@student.example.com,20,Female,Mechanical Engineering,8,Patiala,47,62,66,65,66,306,500,61.199999999999996,D,Pass,2023,No
+CU20260112,Ananya Gill,ananya.gill0112@student.example.com,20,Female,Electronics & Communication,4,Chandigarh,45,43,46,57,50,241,500,48.199999999999996,F,Fail,2024,No
+CU20260113,Isha Bhatia,isha.bhatia0113@student.example.com,21,Female,Information Technology,5,Karnal,78,62,77,71,79,367,500,73.4,C,Pass,2024,No
+CU20260114,Nisha Kaur,nisha.kaur0114@student.example.com,18,Male,Electronics & Communication,6,Jaipur,100,77,70,100,75,422,500,84.39999999999999,B,Pass,2025,No
+CU20260115,Manpreet Bhatia,manpreet.bhatia0115@student.example.com,19,Male,Electronics & Communication,4,Ambala,73,79,70,65,63,350,500,70.0,C,Pass,2026,No
+CU20260116,Jaspreet Malhotra,jaspreet.malhotra0116@student.example.com,22,Male,Electronics & Communication,5,Pune,91,80,82,73,100,426,500,85.2,B,Pass,2026,No
+CU20260117,Jaspreet Joshi,jaspreet.joshi0117@student.example.com,18,Male,Business Administration,3,Mohali,67,69,66,69,66,337,500,67.4,D,Pass,2025,Yes
+CU20260118,Aanya Reddy,aanya.reddy0118@student.example.com,22,Male,Computer Science,3,Ambala,62,43,55,62,75,297,500,59.4,E,Pass,2025,No
+CU20260119,Harpreet Kumar,harpreet.kumar0119@student.example.com,19,Female,Mechanical Engineering,4,Chandigarh,49,66,57,71,66,309,500,61.8,D,Pass,2026,No
+CU20260120,Jaspreet Verma,jaspreet.verma0120@student.example.com,22,Female,Electronics & Communication,6,Patiala,85,97,99,100,98,479,500,95.8,A,Pass,2025,Yes
+CU20260121,Priya Arora,priya.arora0121@student.example.com,20,Male,Business Administration,6,Shimla,54,65,74,69,59,321,500,64.2,D,Pass,2023,No
+CU20260122,Nisha Mehta,nisha.mehta0122@student.example.com,20,Male,Mechanical Engineering,4,Ambala,67,64,71,79,76,357,500,71.39999999999999,C,Pass,2024,No
+CU20260123,Ishaan Sharma,ishaan.sharma0123@student.example.com,21,Male,Computer Science,5,Jaipur,76,62,82,72,57,349,500,69.8,D,Pass,2026,No
+CU20260124,Harpreet Gupta,harpreet.gupta0124@student.example.com,22,Female,Computer Science,5,Pune,82,80,84,71,98,415,500,83.0,B,Pass,2025,No
+CU20260125,Isha Nair,isha.nair0125@student.example.com,20,Male,Civil Engineering,2,Delhi,76,62,79,69,61,347,500,69.39999999999999,D,Pass,2023,Yes
+CU20260126,Neha Saini,neha.saini0126@student.example.com,20,Male,Information Technology,7,Ludhiana,82,52,63,85,77,359,500,71.8,C,Pass,2024,No
+CU20260127,Nisha Chauhan,nisha.chauhan0127@student.example.com,20,Male,Computer Science,5,Pune,69,56,69,78,79,351,500,70.19999999999999,C,Pass,2022,No
+CU20260128,Neha Singh,neha.singh0128@student.example.com,21,Male,Computer Science,5,Dehradun,75,79,78,88,100,420,500,84.0,B,Pass,2023,No
+CU20260129,Abhishek Reddy,abhishek.reddy0129@student.example.com,21,Female,Computer Science,3,Chandigarh,89,72,78,97,71,407,500,81.39999999999999,B,Pass,2022,No
+CU20260130,Gurpreet Arora,gurpreet.arora0130@student.example.com,19,Female,Civil Engineering,5,Lucknow,59,43,59,59,58,278,500,55.60000000000001,E,Pass,2026,No
+CU20260131,Abhishek Saini,abhishek.saini0131@student.example.com,20,Female,Computer Science,7,Mohali,86,93,91,77,80,427,500,85.39999999999999,B,Pass,2026,No
+CU20260132,Priya Mishra,priya.mishra0132@student.example.com,20,Male,Business Administration,2,Delhi,47,28,53,50,45,223,500,44.6,F,Fail,2024,Yes
+CU20260133,Aman Joshi,aman.joshi0133@student.example.com,22,Male,Mechanical Engineering,6,Mohali,63,59,41,60,61,284,500,56.8,E,Pass,2025,No
+CU20260134,Nisha Patel,nisha.patel0134@student.example.com,21,Male,Business Administration,6,Jaipur,83,87,77,77,80,404,500,80.80000000000001,B,Pass,2023,No
+CU20260135,Aditya Reddy,aditya.reddy0135@student.example.com,22,Female,Civil Engineering,1,Amritsar,43,50,50,54,74,271,500,54.2,E,Pass,2023,No
+CU20260136,Abhishek Reddy,abhishek.reddy0136@student.example.com,22,Female,Computer Science,4,Delhi,68,69,73,60,78,348,500,69.6,D,Pass,2023,Yes
+CU20260137,Aditya Chauhan,aditya.chauhan0137@student.example.com,20,Female,Electronics & Communication,6,Mohali,56,79,73,68,78,354,500,70.8,C,Pass,2026,No
+CU20260138,Isha Arora,isha.arora0138@student.example.com,21,Female,Information Technology,7,Amritsar,100,78,86,74,91,429,500,85.8,B,Pass,2025,No
+CU20260139,Aanya Chauhan,aanya.chauhan0139@student.example.com,19,Male,Electronics & Communication,7,Shimla,100,99,96,90,100,485,500,97.0,A,Pass,2022,No
+CU20260140,Diya Das,diya.das0140@student.example.com,18,Female,Information Technology,8,Jaipur,61,29,72,50,50,262,500,52.400000000000006,E,Pass,2024,No
+CU20260141,Arjun Patel,arjun.patel0141@student.example.com,23,Male,Computer Science,7,Pune,77,70,88,65,64,364,500,72.8,C,Pass,2025,No
+CU20260142,Isha Mehta,isha.mehta0142@student.example.com,19,Female,Computer Science,1,Jalandhar,69,83,71,85,78,386,500,77.2,C,Pass,2025,No
+CU20260143,Aanya Joshi,aanya.joshi0143@student.example.com,18,Male,Computer Science,6,Patiala,96,78,70,86,86,416,500,83.2,B,Pass,2026,No
+CU20260144,Rohan Kumar,rohan.kumar0144@student.example.com,22,Female,Information Technology,6,Ambala,77,86,61,73,84,381,500,76.2,C,Pass,2023,No
+CU20260145,Nisha Reddy,nisha.reddy0145@student.example.com,20,Female,Computer Science,6,Chandigarh,61,65,81,78,89,374,500,74.8,C,Pass,2024,No
+CU20260146,Arjun Saini,arjun.saini0146@student.example.com,22,Male,Information Technology,5,Amritsar,45,58,39,64,55,261,500,52.2,E,Pass,2026,No
+CU20260147,Arjun Das,arjun.das0147@student.example.com,21,Female,Electronics & Communication,1,Lucknow,92,82,87,100,97,458,500,91.60000000000001,A,Pass,2023,No
+CU20260148,Isha Nair,isha.nair0148@student.example.com,21,Male,Computer Science,4,Karnal,55,46,45,40,79,265,500,53.0,E,Pass,2026,No
+CU20260149,Aanya Bhatia,aanya.bhatia0149@student.example.com,19,Male,Mechanical Engineering,5,Delhi,51,66,78,57,58,310,500,62.0,D,Pass,2025,Yes
+CU20260150,Nisha Das,nisha.das0150@student.example.com,20,Male,Information Technology,8,Chandigarh,70,85,90,74,80,399,500,79.80000000000001,C,Pass,2022,No
+CU20260151,Meera Mehta,meera.mehta0151@student.example.com,23,Female,Mechanical Engineering,8,Ambala,41,40,58,45,33,217,500,43.4,F,Fail,2026,No
+CU20260152,Saanvi Reddy,saanvi.reddy0152@student.example.com,21,Female,Business Administration,5,Delhi,61,71,58,64,67,321,500,64.2,D,Pass,2023,No
+CU20260153,Rahul Shah,rahul.shah0153@student.example.com,19,Male,Computer Science,4,Dehradun,62,40,42,58,71,273,500,54.6,E,Pass,2023,No
+CU20260154,Aditya Saini,aditya.saini0154@student.example.com,21,Female,Civil Engineering,4,Amritsar,75,47,53,64,69,308,500,61.6,D,Pass,2024,No
+CU20260155,Abhishek Shah,abhishek.shah0155@student.example.com,20,Female,Information Technology,5,Karnal,91,71,96,80,84,422,500,84.39999999999999,B,Pass,2026,Yes
+CU20260156,Aarav Joshi,aarav.joshi0156@student.example.com,21,Male,Mechanical Engineering,5,Jalandhar,63,62,68,80,64,337,500,67.4,D,Pass,2023,No
+CU20260157,Mohit Singh,mohit.singh0157@student.example.com,19,Male,Information Technology,6,Jalandhar,65,69,58,58,68,318,500,63.6,D,Pass,2024,No
+CU20260158,Priya Kaur,priya.kaur0158@student.example.com,21,Female,Business Administration,7,Jalandhar,80,73,84,71,83,391,500,78.2,C,Pass,2025,No
+CU20260159,Abhishek Shah,abhishek.shah0159@student.example.com,19,Female,Business Administration,6,Delhi,93,80,78,69,88,408,500,81.6,B,Pass,2025,No
+CU20260160,Aditya Mehta,aditya.mehta0160@student.example.com,19,Female,Computer Science,4,Pune,51,32,59,55,50,247,500,49.4,F,Fail,2024,Yes
+CU20260161,Aman Shah,aman.shah0161@student.example.com,20,Female,Information Technology,6,Patiala,89,74,88,76,76,403,500,80.60000000000001,B,Pass,2025,Yes
+CU20260162,Isha Verma,isha.verma0162@student.example.com,20,Female,Computer Science,7,Ludhiana,68,58,60,84,78,348,500,69.6,D,Pass,2024,Yes
+CU20260163,Meera Mishra,meera.mishra0163@student.example.com,20,Male,Computer Science,1,Jaipur,92,96,75,73,86,422,500,84.39999999999999,B,Pass,2024,No
+CU20260164,Manpreet Patel,manpreet.patel0164@student.example.com,21,Female,Civil Engineering,6,Delhi,78,73,91,72,93,407,500,81.39999999999999,B,Pass,2022,Yes
+CU20260165,Gurpreet Das,gurpreet.das0165@student.example.com,21,Female,Business Administration,3,Ambala,69,65,91,76,72,373,500,74.6,C,Pass,2025,No
+CU20260166,Riya Kaur,riya.kaur0166@student.example.com,22,Female,Electronics & Communication,5,Karnal,63,67,89,65,71,355,500,71.0,C,Pass,2025,No
+CU20260167,Rohan Arora,rohan.arora0167@student.example.com,20,Male,Information Technology,8,Delhi,69,55,79,66,100,369,500,73.8,C,Pass,2025,No
+CU20260168,Aanya Nair,aanya.nair0168@student.example.com,19,Female,Information Technology,4,Amritsar,82,62,85,74,83,386,500,77.2,C,Pass,2024,No
+CU20260169,Aman Sharma,aman.sharma0169@student.example.com,20,Male,Information Technology,8,Ludhiana,55,57,82,65,68,327,500,65.4,D,Pass,2023,No
+CU20260170,Ishaan Kumar,ishaan.kumar0170@student.example.com,21,Male,Computer Science,4,Chandigarh,78,74,59,70,100,381,500,76.2,C,Pass,2026,No
+CU20260171,Nisha Kaur,nisha.kaur0171@student.example.com,18,Female,Information Technology,2,Mohali,85,100,93,95,95,468,500,93.60000000000001,A,Pass,2023,No
+CU20260172,Priya Gupta,priya.gupta0172@student.example.com,22,Female,Information Technology,2,Delhi,90,77,85,68,89,409,500,81.8,B,Pass,2024,No
+CU20260173,Nisha Kumar,nisha.kumar0173@student.example.com,21,Male,Information Technology,3,Lucknow,66,100,65,82,84,397,500,79.4,C,Pass,2026,No
+CU20260174,Saanvi Shah,saanvi.shah0174@student.example.com,22,Male,Computer Science,7,Mohali,72,58,63,53,66,312,500,62.4,D,Pass,2026,No
+CU20260175,Rahul Bhatia,rahul.bhatia0175@student.example.com,20,Male,Civil Engineering,8,Ambala,68,52,61,51,61,293,500,58.599999999999994,E,Pass,2022,No
+CU20260176,Riya Arora,riya.arora0176@student.example.com,19,Male,Computer Science,8,Dehradun,58,72,80,75,84,369,500,73.8,C,Pass,2025,Yes
+CU20260177,Harpreet Reddy,harpreet.reddy0177@student.example.com,21,Male,Business Administration,7,Ludhiana,75,68,71,64,82,360,500,72.0,C,Pass,2024,No
+CU20260178,Aman Malhotra,aman.malhotra0178@student.example.com,19,Male,Electronics & Communication,4,Jaipur,64,68,67,50,71,320,500,64.0,D,Pass,2025,No
+CU20260179,Abhishek Arora,abhishek.arora0179@student.example.com,20,Male,Business Administration,3,Lucknow,69,59,81,60,57,326,500,65.2,D,Pass,2024,No
+CU20260180,Ishaan Verma,ishaan.verma0180@student.example.com,20,Male,Civil Engineering,4,Amritsar,58,77,82,72,69,358,500,71.6,C,Pass,2025,Yes
+CU20260181,Yash Mehta,yash.mehta0181@student.example.com,23,Female,Mechanical Engineering,5,Patiala,66,79,90,62,91,388,500,77.60000000000001,C,Pass,2023,No
+CU20260182,Saanvi Kaur,saanvi.kaur0182@student.example.com,20,Male,Computer Science,7,Lucknow,63,34,67,82,69,315,500,63.0,D,Pass,2025,No
+CU20260183,Gurpreet Malhotra,gurpreet.malhotra0183@student.example.com,20,Male,Computer Science,8,Lucknow,65,58,77,61,51,312,500,62.4,D,Pass,2024,No
+CU20260184,Diya Arora,diya.arora0184@student.example.com,23,Female,Computer Science,2,Lucknow,50,57,60,69,85,321,500,64.2,D,Pass,2026,No
+CU20260185,Isha Reddy,isha.reddy0185@student.example.com,20,Female,Computer Science,4,Karnal,43,56,53,61,59,272,500,54.400000000000006,E,Pass,2024,No
+CU20260186,Sahil Nair,sahil.nair0186@student.example.com,21,Female,Information Technology,8,Amritsar,80,70,72,72,80,374,500,74.8,C,Pass,2024,No
+CU20260187,Aditya Singh,aditya.singh0187@student.example.com,22,Female,Electronics & Communication,8,Ludhiana,77,67,78,70,65,357,500,71.39999999999999,C,Pass,2023,No
+CU20260188,Manpreet Mehta,manpreet.mehta0188@student.example.com,19,Male,Civil Engineering,2,Jalandhar,32,35,45,34,57,203,500,40.6,F,Fail,2023,No
+CU20260189,Diya Das,diya.das0189@student.example.com,19,Male,Computer Science,8,Dehradun,75,77,62,78,77,369,500,73.8,C,Pass,2025,Yes
+CU20260190,Riya Mehta,riya.mehta0190@student.example.com,19,Female,Electronics & Communication,8,Patiala,84,85,78,74,91,412,500,82.39999999999999,B,Pass,2025,No
+CU20260191,Aman Verma,aman.verma0191@student.example.com,19,Female,Business Administration,6,Jaipur,69,70,67,69,70,345,500,69.0,D,Pass,2025,No
+CU20260192,Aditya Mehta,aditya.mehta0192@student.example.com,21,Female,Civil Engineering,7,Jaipur,73,76,67,66,83,365,500,73.0,C,Pass,2022,No
+CU20260193,Yash Singh,yash.singh0193@student.example.com,21,Male,Civil Engineering,1,Lucknow,72,73,76,84,80,385,500,77.0,C,Pass,2025,Yes
+CU20260194,Aanya Mehta,aanya.mehta0194@student.example.com,20,Male,Information Technology,8,Lucknow,81,73,57,89,78,378,500,75.6,C,Pass,2025,Yes
+CU20260195,Riya Patel,riya.patel0195@student.example.com,18,Male,Electronics & Communication,5,Ludhiana,46,49,80,78,75,328,500,65.60000000000001,D,Pass,2023,No
+CU20260196,Jaspreet Mishra,jaspreet.mishra0196@student.example.com,20,Male,Mechanical Engineering,4,Chandigarh,64,88,80,73,52,357,500,71.39999999999999,C,Pass,2024,No
+CU20260197,Saanvi Malhotra,saanvi.malhotra0197@student.example.com,23,Female,Information Technology,4,Karnal,56,83,80,77,78,374,500,74.8,C,Pass,2023,No
+CU20260198,Navya Joshi,navya.joshi0198@student.example.com,21,Male,Business Administration,4,Mohali,62,63,79,66,85,355,500,71.0,C,Pass,2026,No
+CU20260199,Neha Arora,neha.arora0199@student.example.com,22,Male,Electronics & Communication,4,Jalandhar,70,69,71,55,79,344,500,68.8,D,Pass,2022,Yes
+CU20260200,Arjun Gupta,arjun.gupta0200@student.example.com,21,Female,Business Administration,7,Delhi,68,70,34,58,66,296,500,59.199999999999996,E,Pass,2024,No
+CU20260201,Sahil Bhatia,sahil.bhatia0201@student.example.com,21,Female,Business Administration,7,Jalandhar,89,62,82,74,79,386,500,77.2,C,Pass,2022,No
+CU20260202,Karan Verma,karan.verma0202@student.example.com,20,Female,Computer Science,7,Delhi,70,91,76,84,89,410,500,82.0,B,Pass,2024,No
+CU20260203,Vivaan Nair,vivaan.nair0203@student.example.com,23,Female,Mechanical Engineering,5,Jaipur,73,87,69,81,93,403,500,80.60000000000001,B,Pass,2026,Yes
+CU20260204,Saanvi Singh,saanvi.singh0204@student.example.com,19,Male,Computer Science,2,Lucknow,87,80,98,83,100,448,500,89.60000000000001,B,Pass,2025,No
+CU20260205,Mohit Mehta,mohit.mehta0205@student.example.com,23,Female,Electronics & Communication,2,Jaipur,73,71,81,82,84,391,500,78.2,C,Pass,2026,No
+CU20260206,Riya Verma,riya.verma0206@student.example.com,20,Female,Mechanical Engineering,1,Delhi,74,62,65,50,65,316,500,63.2,D,Pass,2024,Yes
+CU20260207,Navya Sharma,navya.sharma0207@student.example.com,23,Male,Civil Engineering,4,Mohali,58,77,100,68,82,385,500,77.0,C,Pass,2025,Yes
+CU20260208,Ananya Mishra,ananya.mishra0208@student.example.com,21,Female,Electronics & Communication,7,Ambala,73,79,70,80,66,368,500,73.6,C,Pass,2025,No
+CU20260209,Simran Mehta,simran.mehta0209@student.example.com,19,Male,Computer Science,4,Jaipur,67,77,60,55,68,327,500,65.4,D,Pass,2026,No
+CU20260210,Aman Chauhan,aman.chauhan0210@student.example.com,19,Male,Mechanical Engineering,2,Ludhiana,62,66,60,76,63,327,500,65.4,D,Pass,2023,No
+CU20260211,Rohan Shah,rohan.shah0211@student.example.com,24,Male,Computer Science,4,Patiala,50,64,71,54,61,300,500,60.0,D,Pass,2026,Yes
+CU20260212,Abhishek Gill,abhishek.gill0212@student.example.com,19,Female,Computer Science,4,Jaipur,71,71,89,84,100,415,500,83.0,B,Pass,2023,No
+CU20260213,Neha Shah,neha.shah0213@student.example.com,21,Male,Information Technology,3,Ludhiana,47,60,65,53,78,303,500,60.6,D,Pass,2023,No
+CU20260214,Harpreet Nair,harpreet.nair0214@student.example.com,20,Female,Information Technology,3,Lucknow,73,74,100,93,78,418,500,83.6,B,Pass,2025,Yes
+CU20260215,Sahil Chauhan,sahil.chauhan0215@student.example.com,21,Male,Electronics & Communication,3,Jaipur,63,63,68,52,72,318,500,63.6,D,Pass,2024,Yes
+CU20260216,Rohan Patel,rohan.patel0216@student.example.com,20,Female,Computer Science,7,Pune,100,100,98,100,100,498,500,99.6,A,Pass,2025,No
+CU20260217,Ishaan Shah,ishaan.shah0217@student.example.com,21,Male,Civil Engineering,6,Mohali,80,86,74,60,92,392,500,78.4,C,Pass,2025,Yes
+CU20260218,Abhishek Reddy,abhishek.reddy0218@student.example.com,22,Female,Business Administration,7,Delhi,58,61,70,65,64,318,500,63.6,D,Pass,2024,No
+CU20260219,Diya Bhatia,diya.bhatia0219@student.example.com,20,Male,Civil Engineering,8,Karnal,51,67,68,63,62,311,500,62.2,D,Pass,2026,No
+CU20260220,Aarav Kumar,aarav.kumar0220@student.example.com,21,Male,Information Technology,4,Jalandhar,91,96,96,85,95,463,500,92.60000000000001,A,Pass,2026,No
+CU20260221,Gurpreet Mehta,gurpreet.mehta0221@student.example.com,20,Male,Computer Science,1,Jalandhar,72,51,75,64,76,338,500,67.60000000000001,D,Pass,2024,No
+CU20260222,Karan Verma,karan.verma0222@student.example.com,21,Female,Information Technology,5,Jalandhar,62,42,63,49,54,270,500,54.0,E,Pass,2024,No
+CU20260223,Isha Kumar,isha.kumar0223@student.example.com,18,Female,Computer Science,8,Amritsar,79,83,82,73,86,403,500,80.60000000000001,B,Pass,2023,No
+CU20260224,Aditya Kaur,aditya.kaur0224@student.example.com,20,Male,Business Administration,4,Pune,54,76,73,69,78,350,500,70.0,C,Pass,2026,No
+CU20260225,Neha Singh,neha.singh0225@student.example.com,22,Male,Information Technology,6,Lucknow,70,73,88,81,79,391,500,78.2,C,Pass,2025,No
+CU20260226,Manpreet Joshi,manpreet.joshi0226@student.example.com,19,Female,Business Administration,3,Ambala,83,65,55,69,92,364,500,72.8,C,Pass,2024,No
+CU20260227,Manpreet Reddy,manpreet.reddy0227@student.example.com,23,Female,Computer Science,8,Jaipur,83,56,79,75,66,359,500,71.8,C,Pass,2024,No
+CU20260228,Rohan Gill,rohan.gill0228@student.example.com,19,Male,Computer Science,8,Chandigarh,44,56,60,41,53,254,500,50.8,E,Pass,2024,No
+CU20260229,Harpreet Kumar,harpreet.kumar0229@student.example.com,18,Male,Civil Engineering,4,Lucknow,58,55,58,50,77,298,500,59.599999999999994,E,Pass,2024,No
+CU20260230,Aarav Nair,aarav.nair0230@student.example.com,20,Male,Electronics & Communication,4,Jalandhar,96,71,73,84,91,415,500,83.0,B,Pass,2025,No
+CU20260231,Sahil Arora,sahil.arora0231@student.example.com,22,Male,Mechanical Engineering,6,Chandigarh,64,45,54,58,76,297,500,59.4,E,Pass,2024,No
+CU20260232,Riya Saini,riya.saini0232@student.example.com,18,Female,Information Technology,5,Patiala,95,87,100,92,100,474,500,94.8,A,Pass,2022,Yes
+CU20260233,Navya Malhotra,navya.malhotra0233@student.example.com,20,Male,Information Technology,3,Ambala,76,67,80,64,77,364,500,72.8,C,Pass,2023,No
+CU20260234,Gurpreet Gill,gurpreet.gill0234@student.example.com,20,Female,Mechanical Engineering,4,Karnal,62,57,51,69,63,302,500,60.4,D,Pass,2022,No
+CU20260235,Mohit Nair,mohit.nair0235@student.example.com,23,Male,Civil Engineering,3,Chandigarh,71,82,70,65,93,381,500,76.2,C,Pass,2026,No
+CU20260236,Manpreet Sharma,manpreet.sharma0236@student.example.com,21,Male,Civil Engineering,2,Delhi,25,36,48,48,46,203,500,40.6,F,Fail,2025,No
+CU20260237,Saanvi Malhotra,saanvi.malhotra0237@student.example.com,19,Female,Information Technology,1,Ambala,73,60,66,74,79,352,500,70.39999999999999,C,Pass,2024,No
+CU20260238,Jaspreet Nair,jaspreet.nair0238@student.example.com,18,Male,Computer Science,1,Delhi,61,42,64,66,44,277,500,55.400000000000006,E,Pass,2026,No
+CU20260239,Aarav Nair,aarav.nair0239@student.example.com,20,Male,Business Administration,8,Patiala,63,82,71,79,71,366,500,73.2,C,Pass,2024,No
+CU20260240,Navya Patel,navya.patel0240@student.example.com,20,Male,Information Technology,7,Jalandhar,71,79,90,60,72,372,500,74.4,C,Pass,2025,No
+CU20260241,Rahul Gill,rahul.gill0241@student.example.com,18,Female,Computer Science,8,Lucknow,80,66,59,64,80,349,500,69.8,D,Pass,2026,No
+CU20260242,Riya Mishra,riya.mishra0242@student.example.com,21,Male,Computer Science,4,Ambala,99,71,80,94,67,411,500,82.19999999999999,B,Pass,2026,Yes
+CU20260243,Mohit Mishra,mohit.mishra0243@student.example.com,20,Male,Mechanical Engineering,8,Ambala,72,66,74,78,92,382,500,76.4,C,Pass,2022,No
+CU20260244,Karan Joshi,karan.joshi0244@student.example.com,23,Male,Business Administration,3,Patiala,61,62,66,74,50,313,500,62.6,D,Pass,2022,Yes
+CU20260245,Aditya Shah,aditya.shah0245@student.example.com,20,Female,Information Technology,2,Karnal,76,97,75,97,77,422,500,84.39999999999999,B,Pass,2025,Yes
+CU20260246,Karan Mishra,karan.mishra0246@student.example.com,20,Female,Electronics & Communication,6,Chandigarh,76,78,77,80,93,404,500,80.80000000000001,B,Pass,2026,No
+CU20260247,Riya Mehta,riya.mehta0247@student.example.com,22,Male,Information Technology,3,Jaipur,55,67,56,71,86,335,500,67.0,D,Pass,2022,Yes
+CU20260248,Nisha Nair,nisha.nair0248@student.example.com,18,Female,Computer Science,6,Delhi,35,23,23,43,36,160,500,32.0,F,Fail,2025,No
+CU20260249,Rahul Reddy,rahul.reddy0249@student.example.com,22,Male,Mechanical Engineering,7,Ludhiana,45,52,57,66,55,275,500,55.00000000000001,E,Pass,2024,No
+CU20260250,Saanvi Kumar,saanvi.kumar0250@student.example.com,24,Female,Business Administration,6,Ludhiana,81,68,96,94,99,438,500,87.6,B,Pass,2023,No
+CU20260251,Karan Joshi,karan.joshi0251@student.example.com,18,Female,Computer Science,4,Karnal,63,46,71,51,62,293,500,58.599999999999994,E,Pass,2025,No
+CU20260252,Sahil Das,sahil.das0252@student.example.com,20,Female,Electronics & Communication,2,Jalandhar,86,77,100,81,60,404,500,80.80000000000001,B,Pass,2023,Yes
+CU20260253,Harpreet Bhatia,harpreet.bhatia0253@student.example.com,20,Female,Computer Science,5,Patiala,77,83,78,94,84,416,500,83.2,B,Pass,2024,No
+CU20260254,Navya Das,navya.das0254@student.example.com,23,Female,Computer Science,8,Mohali,70,58,82,80,85,375,500,75.0,C,Pass,2024,Yes
+CU20260255,Arjun Reddy,arjun.reddy0255@student.example.com,20,Male,Computer Science,1,Ambala,65,64,74,52,67,322,500,64.4,D,Pass,2023,No
+CU20260256,Mohit Kaur,mohit.kaur0256@student.example.com,19,Female,Computer Science,5,Mohali,78,81,88,87,88,422,500,84.39999999999999,B,Pass,2026,No
+CU20260257,Yash Singh,yash.singh0257@student.example.com,20,Female,Civil Engineering,4,Ludhiana,56,62,55,80,69,322,500,64.4,D,Pass,2024,No
+CU20260258,Karan Mehta,karan.mehta0258@student.example.com,20,Male,Computer Science,8,Mohali,84,66,71,65,86,372,500,74.4,C,Pass,2024,No
+CU20260259,Saanvi Nair,saanvi.nair0259@student.example.com,20,Female,Electronics & Communication,1,Delhi,93,87,68,78,68,394,500,78.8,C,Pass,2025,No
+CU20260260,Abhishek Malhotra,abhishek.malhotra0260@student.example.com,23,Female,Computer Science,6,Dehradun,60,76,78,57,86,357,500,71.39999999999999,C,Pass,2024,No
+CU20260261,Isha Arora,isha.arora0261@student.example.com,20,Female,Civil Engineering,3,Chandigarh,75,79,83,73,79,389,500,77.8,C,Pass,2025,No
+CU20260262,Nisha Chauhan,nisha.chauhan0262@student.example.com,19,Female,Information Technology,1,Ambala,48,61,49,57,49,264,500,52.800000000000004,E,Pass,2024,No
+CU20260263,Saanvi Arora,saanvi.arora0263@student.example.com,23,Female,Computer Science,4,Karnal,61,58,82,65,67,333,500,66.60000000000001,D,Pass,2026,No
+CU20260264,Yash Sharma,yash.sharma0264@student.example.com,21,Female,Civil Engineering,4,Dehradun,83,61,81,86,66,377,500,75.4,C,Pass,2024,No
+CU20260265,Rahul Mehta,rahul.mehta0265@student.example.com,20,Male,Computer Science,3,Ambala,80,60,46,37,70,293,500,58.599999999999994,E,Pass,2022,No
+CU20260266,Aarav Bhatia,aarav.bhatia0266@student.example.com,21,Male,Computer Science,6,Ambala,63,66,57,84,89,359,500,71.8,C,Pass,2025,No
+CU20260267,Diya Saini,diya.saini0267@student.example.com,22,Male,Computer Science,1,Ludhiana,80,73,77,67,73,370,500,74.0,C,Pass,2025,No
+CU20260268,Rohan Chauhan,rohan.chauhan0268@student.example.com,22,Female,Mechanical Engineering,8,Shimla,60,62,70,83,88,363,500,72.6,C,Pass,2026,No
+CU20260269,Nisha Mehta,nisha.mehta0269@student.example.com,21,Male,Civil Engineering,4,Patiala,84,100,100,100,91,475,500,95.0,A,Pass,2026,No
+CU20260270,Sahil Mehta,sahil.mehta0270@student.example.com,18,Female,Information Technology,3,Amritsar,85,82,98,86,87,438,500,87.6,B,Pass,2023,Yes
+CU20260271,Yash Das,yash.das0271@student.example.com,22,Male,Electronics & Communication,6,Pune,74,46,61,77,78,336,500,67.2,D,Pass,2024,Yes
+CU20260272,Aanya Joshi,aanya.joshi0272@student.example.com,21,Male,Computer Science,6,Patiala,68,52,76,66,64,326,500,65.2,D,Pass,2024,No
+CU20260273,Saanvi Das,saanvi.das0273@student.example.com,19,Male,Mechanical Engineering,6,Pune,37,36,66,50,64,253,500,50.6,E,Pass,2022,No
+CU20260274,Arjun Gupta,arjun.gupta0274@student.example.com,19,Female,Civil Engineering,4,Ludhiana,70,63,79,84,65,361,500,72.2,C,Pass,2023,No
+CU20260275,Isha Mishra,isha.mishra0275@student.example.com,20,Male,Information Technology,4,Mohali,51,67,86,54,71,329,500,65.8,D,Pass,2023,Yes
+CU20260276,Saanvi Chauhan,saanvi.chauhan0276@student.example.com,22,Female,Civil Engineering,5,Jaipur,61,74,90,56,87,368,500,73.6,C,Pass,2023,No
+CU20260277,Gurpreet Reddy,gurpreet.reddy0277@student.example.com,19,Male,Information Technology,5,Shimla,43,39,51,56,49,238,500,47.599999999999994,F,Fail,2024,No
+CU20260278,Simran Sharma,simran.sharma0278@student.example.com,21,Male,Electronics & Communication,6,Patiala,96,74,72,77,86,405,500,81.0,B,Pass,2024,No
+CU20260279,Rohan Bhatia,rohan.bhatia0279@student.example.com,19,Female,Computer Science,2,Delhi,81,69,65,70,100,385,500,77.0,C,Pass,2024,No
+CU20260280,Meera Gill,meera.gill0280@student.example.com,21,Female,Business Administration,7,Pune,57,57,38,60,57,269,500,53.800000000000004,E,Pass,2024,No
+CU20260281,Aditya Joshi,aditya.joshi0281@student.example.com,19,Male,Civil Engineering,7,Pune,73,68,78,71,66,356,500,71.2,C,Pass,2023,No
+CU20260282,Vivaan Gupta,vivaan.gupta0282@student.example.com,20,Female,Mechanical Engineering,8,Jalandhar,71,71,57,64,62,325,500,65.0,D,Pass,2025,Yes
+CU20260283,Meera Malhotra,meera.malhotra0283@student.example.com,20,Female,Information Technology,6,Mohali,64,50,73,68,76,331,500,66.2,D,Pass,2026,No
+CU20260284,Diya Mishra,diya.mishra0284@student.example.com,21,Male,Civil Engineering,5,Dehradun,76,76,71,85,86,394,500,78.8,C,Pass,2022,No
+CU20260285,Nisha Arora,nisha.arora0285@student.example.com,19,Female,Mechanical Engineering,8,Lucknow,100,88,97,94,100,479,500,95.8,A,Pass,2025,No
+CU20260286,Manpreet Malhotra,manpreet.malhotra0286@student.example.com,22,Male,Information Technology,5,Ambala,57,57,50,65,54,283,500,56.599999999999994,E,Pass,2022,No
+CU20260287,Mohit Das,mohit.das0287@student.example.com,21,Male,Electronics & Communication,4,Chandigarh,61,74,73,70,69,347,500,69.39999999999999,D,Pass,2025,No
+CU20260288,Saanvi Patel,saanvi.patel0288@student.example.com,23,Male,Business Administration,5,Lucknow,79,59,63,58,54,313,500,62.6,D,Pass,2026,No
+CU20260289,Aditya Bhatia,aditya.bhatia0289@student.example.com,18,Male,Information Technology,3,Karnal,33,22,37,46,42,180,500,36.0,F,Fail,2022,No
+CU20260290,Sahil Mishra,sahil.mishra0290@student.example.com,22,Male,Business Administration,6,Dehradun,85,91,80,100,73,429,500,85.8,B,Pass,2024,No
+CU20260291,Kavya Malhotra,kavya.malhotra0291@student.example.com,21,Female,Electronics & Communication,3,Lucknow,54,50,70,44,84,302,500,60.4,D,Pass,2022,No
+CU20260292,Meera Gill,meera.gill0292@student.example.com,19,Female,Electronics & Communication,7,Jalandhar,56,48,67,75,89,335,500,67.0,D,Pass,2022,No
+CU20260293,Meera Patel,meera.patel0293@student.example.com,23,Female,Electronics & Communication,6,Pune,66,61,70,62,71,330,500,66.0,D,Pass,2025,Yes
+CU20260294,Aditya Malhotra,aditya.malhotra0294@student.example.com,21,Male,Civil Engineering,6,Delhi,80,73,85,80,68,386,500,77.2,C,Pass,2024,No
+CU20260295,Rohan Das,rohan.das0295@student.example.com,20,Male,Information Technology,3,Lucknow,62,70,59,49,75,315,500,63.0,D,Pass,2026,No
+CU20260296,Aarav Malhotra,aarav.malhotra0296@student.example.com,21,Female,Information Technology,4,Amritsar,88,79,93,86,76,422,500,84.39999999999999,B,Pass,2025,No
+CU20260297,Diya Verma,diya.verma0297@student.example.com,22,Female,Information Technology,5,Mohali,84,85,79,82,80,410,500,82.0,B,Pass,2025,Yes
+CU20260298,Jaspreet Reddy,jaspreet.reddy0298@student.example.com,20,Male,Computer Science,2,Karnal,52,71,64,56,64,307,500,61.4,D,Pass,2025,No
+CU20260299,Aditya Gill,aditya.gill0299@student.example.com,21,Female,Information Technology,4,Delhi,79,89,80,85,85,418,500,83.6,B,Pass,2022,No
+CU20260300,Rohan Nair,rohan.nair0300@student.example.com,21,Female,Business Administration,4,Amritsar,78,76,83,71,72,380,500,76.0,C,Pass,2022,No
+CU20260301,Ananya Joshi,ananya.joshi0301@student.example.com,19,Male,Information Technology,8,Jalandhar,67,43,60,62,67,299,500,59.8,E,Pass,2025,No
+CU20260302,Aanya Gupta,aanya.gupta0302@student.example.com,21,Female,Civil Engineering,6,Shimla,100,88,85,83,82,438,500,87.6,B,Pass,2024,No
+CU20260303,Rohan Verma,rohan.verma0303@student.example.com,19,Female,Electronics & Communication,8,Dehradun,58,48,60,37,71,274,500,54.800000000000004,E,Pass,2022,No
+CU20260304,Riya Mehta,riya.mehta0304@student.example.com,21,Male,Civil Engineering,5,Chandigarh,87,85,100,87,90,449,500,89.8,B,Pass,2025,No
+CU20260305,Abhishek Kaur,abhishek.kaur0305@student.example.com,20,Female,Information Technology,7,Shimla,75,66,74,67,67,349,500,69.8,D,Pass,2025,No
+CU20260306,Nisha Bhatia,nisha.bhatia0306@student.example.com,19,Female,Computer Science,4,Ludhiana,52,58,56,67,69,302,500,60.4,D,Pass,2025,No
+CU20260307,Harpreet Arora,harpreet.arora0307@student.example.com,22,Male,Mechanical Engineering,1,Amritsar,81,71,59,96,79,386,500,77.2,C,Pass,2025,No
+CU20260308,Riya Kumar,riya.kumar0308@student.example.com,20,Female,Computer Science,5,Ambala,61,81,79,61,66,348,500,69.6,D,Pass,2022,No
+CU20260309,Aanya Gupta,aanya.gupta0309@student.example.com,18,Male,Electronics & Communication,3,Jaipur,86,52,64,74,81,357,500,71.39999999999999,C,Pass,2026,Yes
+CU20260310,Aman Bhatia,aman.bhatia0310@student.example.com,21,Female,Civil Engineering,3,Mohali,100,96,94,89,97,476,500,95.19999999999999,A,Pass,2024,No
+CU20260311,Aarav Sharma,aarav.sharma0311@student.example.com,18,Male,Information Technology,5,Ambala,54,62,42,64,56,278,500,55.60000000000001,E,Pass,2026,No
+CU20260312,Manpreet Mishra,manpreet.mishra0312@student.example.com,24,Male,Mechanical Engineering,1,Jaipur,100,81,100,98,93,472,500,94.39999999999999,A,Pass,2022,No
+CU20260313,Neha Nair,neha.nair0313@student.example.com,19,Male,Electronics & Communication,6,Pune,32,55,51,60,41,239,500,47.8,F,Fail,2024,Yes
+CU20260314,Jaspreet Patel,jaspreet.patel0314@student.example.com,21,Female,Computer Science,7,Dehradun,92,81,82,89,76,420,500,84.0,B,Pass,2022,No
+CU20260315,Simran Mishra,simran.mishra0315@student.example.com,20,Male,Mechanical Engineering,6,Lucknow,60,73,74,58,69,334,500,66.8,D,Pass,2022,No
+CU20260316,Arjun Kumar,arjun.kumar0316@student.example.com,22,Male,Computer Science,1,Pune,56,35,52,64,46,253,500,50.6,E,Pass,2023,No
+CU20260317,Sahil Malhotra,sahil.malhotra0317@student.example.com,22,Female,Computer Science,4,Mohali,59,49,49,69,42,268,500,53.6,E,Pass,2025,Yes
+CU20260318,Aanya Gill,aanya.gill0318@student.example.com,22,Male,Electronics & Communication,5,Pune,72,54,58,63,71,318,500,63.6,D,Pass,2025,Yes
+CU20260319,Sahil Nair,sahil.nair0319@student.example.com,23,Male,Computer Science,7,Amritsar,83,67,62,62,79,353,500,70.6,C,Pass,2024,No
+CU20260320,Vivaan Saini,vivaan.saini0320@student.example.com,19,Female,Computer Science,5,Amritsar,63,67,75,69,95,369,500,73.8,C,Pass,2026,No
+CU20260321,Aman Kaur,aman.kaur0321@student.example.com,20,Male,Information Technology,2,Jaipur,61,66,72,56,60,315,500,63.0,D,Pass,2024,No
+CU20260322,Saanvi Nair,saanvi.nair0322@student.example.com,18,Female,Electronics & Communication,1,Amritsar,84,68,75,64,65,356,500,71.2,C,Pass,2025,No
+CU20260323,Jaspreet Chauhan,jaspreet.chauhan0323@student.example.com,20,Female,Mechanical Engineering,2,Shimla,86,71,97,95,76,425,500,85.0,B,Pass,2025,No
+CU20260324,Vivaan Bhatia,vivaan.bhatia0324@student.example.com,21,Male,Electronics & Communication,4,Dehradun,73,45,72,54,65,309,500,61.8,D,Pass,2022,No
+CU20260325,Abhishek Mishra,abhishek.mishra0325@student.example.com,19,Male,Civil Engineering,6,Amritsar,43,54,55,58,64,274,500,54.800000000000004,E,Pass,2025,Yes
+CU20260326,Neha Gupta,neha.gupta0326@student.example.com,20,Female,Computer Science,7,Jalandhar,45,47,51,52,61,256,500,51.2,E,Pass,2026,No
+CU20260327,Meera Saini,meera.saini0327@student.example.com,20,Male,Electronics & Communication,1,Patiala,73,46,57,74,67,317,500,63.4,D,Pass,2022,No
+CU20260328,Aman Mehta,aman.mehta0328@student.example.com,20,Male,Information Technology,7,Patiala,48,67,66,55,67,303,500,60.6,D,Pass,2022,No
+CU20260329,Rahul Kaur,rahul.kaur0329@student.example.com,20,Female,Electronics & Communication,2,Amritsar,66,87,70,72,95,390,500,78.0,C,Pass,2026,No
+CU20260330,Vivaan Shah,vivaan.shah0330@student.example.com,20,Female,Information Technology,4,Patiala,69,77,71,50,91,358,500,71.6,C,Pass,2025,No
+CU20260331,Neha Nair,neha.nair0331@student.example.com,20,Male,Computer Science,3,Shimla,50,57,58,59,50,274,500,54.800000000000004,E,Pass,2023,Yes
+CU20260332,Yash Joshi,yash.joshi0332@student.example.com,22,Female,Computer Science,5,Jaipur,90,79,78,93,94,434,500,86.8,B,Pass,2023,No
+CU20260333,Isha Das,isha.das0333@student.example.com,20,Male,Computer Science,4,Pune,69,61,69,78,64,341,500,68.2,D,Pass,2022,No
+CU20260334,Meera Mehta,meera.mehta0334@student.example.com,21,Male,Electronics & Communication,6,Pune,68,61,52,68,68,317,500,63.4,D,Pass,2024,Yes
+CU20260335,Yash Arora,yash.arora0335@student.example.com,19,Female,Civil Engineering,5,Karnal,100,100,100,99,100,499,500,99.8,A,Pass,2023,No
+CU20260336,Karan Kumar,karan.kumar0336@student.example.com,20,Male,Computer Science,8,Chandigarh,74,58,78,53,51,314,500,62.8,D,Pass,2025,No
+CU20260337,Ishaan Arora,ishaan.arora0337@student.example.com,21,Male,Information Technology,8,Dehradun,55,55,69,68,88,335,500,67.0,D,Pass,2024,No
+CU20260338,Riya Mehta,riya.mehta0338@student.example.com,20,Female,Civil Engineering,3,Jalandhar,81,72,83,94,73,403,500,80.60000000000001,B,Pass,2024,Yes
+CU20260339,Arjun Nair,arjun.nair0339@student.example.com,21,Female,Computer Science,3,Ambala,58,61,89,77,79,364,500,72.8,C,Pass,2023,No
+CU20260340,Mohit Patel,mohit.patel0340@student.example.com,22,Male,Computer Science,4,Karnal,65,37,61,62,84,309,500,61.8,D,Pass,2023,No
+CU20260341,Aman Reddy,aman.reddy0341@student.example.com,20,Female,Electronics & Communication,1,Ambala,77,71,77,70,70,365,500,73.0,C,Pass,2026,Yes
+CU20260342,Sahil Malhotra,sahil.malhotra0342@student.example.com,20,Male,Computer Science,3,Ludhiana,60,67,70,68,63,328,500,65.60000000000001,D,Pass,2026,No
+CU20260343,Karan Mishra,karan.mishra0343@student.example.com,21,Female,Information Technology,7,Karnal,46,55,66,46,58,271,500,54.2,E,Pass,2023,No
+CU20260344,Meera Gupta,meera.gupta0344@student.example.com,21,Female,Mechanical Engineering,2,Delhi,65,100,65,76,67,373,500,74.6,C,Pass,2022,No
+CU20260345,Aman Chauhan,aman.chauhan0345@student.example.com,21,Male,Mechanical Engineering,4,Dehradun,76,77,67,70,94,384,500,76.8,C,Pass,2025,Yes
+CU20260346,Abhishek Joshi,abhishek.joshi0346@student.example.com,18,Female,Electronics & Communication,6,Mohali,51,68,52,73,63,307,500,61.4,D,Pass,2026,No
+CU20260347,Arjun Das,arjun.das0347@student.example.com,21,Female,Business Administration,7,Lucknow,67,72,84,73,90,386,500,77.2,C,Pass,2025,No
+CU20260348,Aman Saini,aman.saini0348@student.example.com,19,Male,Computer Science,7,Pune,100,85,64,78,75,402,500,80.4,B,Pass,2023,No
+CU20260349,Simran Singh,simran.singh0349@student.example.com,20,Female,Mechanical Engineering,8,Ludhiana,70,56,51,59,51,287,500,57.4,E,Pass,2025,No
+CU20260350,Rahul Malhotra,rahul.malhotra0350@student.example.com,20,Male,Electronics & Communication,1,Amritsar,61,71,79,73,75,359,500,71.8,C,Pass,2024,No
+CU20260351,Manpreet Sharma,manpreet.sharma0351@student.example.com,20,Male,Information Technology,4,Ludhiana,76,71,70,70,87,374,500,74.8,C,Pass,2025,No
+CU20260352,Yash Das,yash.das0352@student.example.com,21,Male,Business Administration,8,Jaipur,66,45,64,43,70,288,500,57.599999999999994,E,Pass,2022,No
+CU20260353,Rahul Verma,rahul.verma0353@student.example.com,21,Male,Information Technology,3,Delhi,45,57,47,64,51,264,500,52.800000000000004,E,Pass,2025,Yes
+CU20260354,Arjun Das,arjun.das0354@student.example.com,20,Male,Information Technology,5,Mohali,98,72,72,99,100,441,500,88.2,B,Pass,2025,No
+CU20260355,Kavya Arora,kavya.arora0355@student.example.com,20,Male,Business Administration,6,Shimla,73,59,54,54,58,298,500,59.599999999999994,E,Pass,2024,No
+CU20260356,Sahil Saini,sahil.saini0356@student.example.com,19,Female,Mechanical Engineering,4,Ambala,59,68,54,78,66,325,500,65.0,D,Pass,2025,Yes
+CU20260357,Simran Nair,simran.nair0357@student.example.com,19,Male,Mechanical Engineering,1,Mohali,81,83,95,96,68,423,500,84.6,B,Pass,2022,No
+CU20260358,Diya Gupta,diya.gupta0358@student.example.com,21,Male,Computer Science,3,Ambala,50,74,80,76,89,369,500,73.8,C,Pass,2025,Yes
+CU20260359,Mohit Malhotra,mohit.malhotra0359@student.example.com,20,Male,Mechanical Engineering,3,Delhi,70,73,84,100,67,394,500,78.8,C,Pass,2026,No
+CU20260360,Aditya Sharma,aditya.sharma0360@student.example.com,19,Female,Information Technology,3,Lucknow,63,70,63,61,63,320,500,64.0,D,Pass,2024,No
+CU20260361,Aanya Gill,aanya.gill0361@student.example.com,20,Male,Business Administration,5,Pune,65,54,64,63,62,308,500,61.6,D,Pass,2025,No
+CU20260362,Mohit Singh,mohit.singh0362@student.example.com,22,Male,Information Technology,2,Lucknow,50,63,77,59,81,330,500,66.0,D,Pass,2025,No
+CU20260363,Rohan Shah,rohan.shah0363@student.example.com,19,Male,Mechanical Engineering,4,Mohali,92,98,90,100,100,480,500,96.0,A,Pass,2024,No
+CU20260364,Neha Mehta,neha.mehta0364@student.example.com,19,Male,Computer Science,3,Dehradun,77,56,75,86,75,369,500,73.8,C,Pass,2026,No
+CU20260365,Yash Joshi,yash.joshi0365@student.example.com,21,Female,Electronics & Communication,6,Mohali,58,59,65,50,58,290,500,57.99999999999999,E,Pass,2025,No
+CU20260366,Jaspreet Verma,jaspreet.verma0366@student.example.com,21,Female,Electronics & Communication,7,Lucknow,85,99,86,89,85,444,500,88.8,B,Pass,2023,No
+CU20260367,Sahil Mishra,sahil.mishra0367@student.example.com,20,Female,Electronics & Communication,6,Delhi,77,65,88,94,88,412,500,82.39999999999999,B,Pass,2025,Yes
+CU20260368,Aarav Nair,aarav.nair0368@student.example.com,24,Female,Civil Engineering,7,Jaipur,77,84,93,75,79,408,500,81.6,B,Pass,2023,No
+CU20260369,Diya Nair,diya.nair0369@student.example.com,19,Male,Computer Science,4,Jalandhar,63,63,57,50,59,292,500,58.4,E,Pass,2024,No
+CU20260370,Aman Arora,aman.arora0370@student.example.com,20,Female,Business Administration,2,Jalandhar,66,39,48,53,49,255,500,51.0,E,Pass,2025,No
+CU20260371,Aman Bhatia,aman.bhatia0371@student.example.com,20,Male,Computer Science,6,Jalandhar,92,83,83,71,86,415,500,83.0,B,Pass,2022,No
+CU20260372,Harpreet Gupta,harpreet.gupta0372@student.example.com,21,Female,Computer Science,4,Patiala,89,80,98,100,93,460,500,92.0,A,Pass,2022,No
+CU20260373,Kavya Kumar,kavya.kumar0373@student.example.com,21,Male,Electronics & Communication,6,Ludhiana,51,62,56,74,66,309,500,61.8,D,Pass,2023,No
+CU20260374,Simran Bhatia,simran.bhatia0374@student.example.com,22,Male,Information Technology,6,Dehradun,65,85,80,78,63,371,500,74.2,C,Pass,2023,No
+CU20260375,Mohit Joshi,mohit.joshi0375@student.example.com,19,Female,Business Administration,5,Mohali,57,54,53,47,54,265,500,53.0,E,Pass,2025,No
+CU20260376,Vivaan Chauhan,vivaan.chauhan0376@student.example.com,21,Female,Information Technology,1,Jalandhar,50,58,54,56,59,277,500,55.400000000000006,E,Pass,2026,No
+CU20260377,Vivaan Kumar,vivaan.kumar0377@student.example.com,22,Female,Information Technology,8,Delhi,55,62,53,74,65,309,500,61.8,D,Pass,2022,No
+CU20260378,Priya Mishra,priya.mishra0378@student.example.com,20,Female,Computer Science,4,Dehradun,46,40,59,65,45,255,500,51.0,E,Pass,2024,No
+CU20260379,Aarav Gill,aarav.gill0379@student.example.com,20,Male,Mechanical Engineering,6,Chandigarh,60,42,66,55,85,308,500,61.6,D,Pass,2025,No
+CU20260380,Rahul Joshi,rahul.joshi0380@student.example.com,20,Male,Electronics & Communication,6,Patiala,79,79,94,85,94,431,500,86.2,B,Pass,2023,No
+CU20260381,Karan Sharma,karan.sharma0381@student.example.com,18,Male,Information Technology,4,Jalandhar,64,55,44,70,56,289,500,57.8,E,Pass,2025,No
+CU20260382,Riya Reddy,riya.reddy0382@student.example.com,20,Female,Computer Science,7,Pune,79,73,69,61,73,355,500,71.0,C,Pass,2026,Yes
+CU20260383,Yash Sharma,yash.sharma0383@student.example.com,22,Male,Information Technology,3,Dehradun,54,54,58,83,65,314,500,62.8,D,Pass,2023,No
+CU20260384,Aanya Sharma,aanya.sharma0384@student.example.com,22,Male,Civil Engineering,2,Chandigarh,70,59,76,62,96,363,500,72.6,C,Pass,2023,No
+CU20260385,Simran Patel,simran.patel0385@student.example.com,20,Female,Computer Science,2,Ludhiana,53,78,61,71,71,334,500,66.8,D,Pass,2025,No
+CU20260386,Gurpreet Nair,gurpreet.nair0386@student.example.com,20,Male,Civil Engineering,7,Patiala,57,64,76,100,100,397,500,79.4,C,Pass,2024,Yes
+CU20260387,Vivaan Verma,vivaan.verma0387@student.example.com,20,Female,Electronics & Communication,5,Jaipur,58,63,74,77,83,355,500,71.0,C,Pass,2024,No
+CU20260388,Saanvi Arora,saanvi.arora0388@student.example.com,20,Male,Computer Science,2,Jaipur,68,68,91,78,90,395,500,79.0,C,Pass,2024,No
+CU20260389,Manpreet Saini,manpreet.saini0389@student.example.com,21,Male,Electronics & Communication,7,Jaipur,42,66,62,59,53,282,500,56.39999999999999,E,Pass,2024,No
+CU20260390,Aman Das,aman.das0390@student.example.com,20,Male,Mechanical Engineering,3,Mohali,42,52,62,69,67,292,500,58.4,E,Pass,2023,No
+CU20260391,Meera Saini,meera.saini0391@student.example.com,18,Female,Electronics & Communication,4,Pune,64,58,82,79,57,340,500,68.0,D,Pass,2024,No
+CU20260392,Riya Nair,riya.nair0392@student.example.com,20,Male,Electronics & Communication,8,Jaipur,81,82,70,80,59,372,500,74.4,C,Pass,2024,No
+CU20260393,Ananya Das,ananya.das0393@student.example.com,21,Male,Mechanical Engineering,5,Patiala,68,61,75,76,80,360,500,72.0,C,Pass,2023,No
+CU20260394,Isha Kumar,isha.kumar0394@student.example.com,18,Female,Business Administration,3,Shimla,90,69,68,95,87,409,500,81.8,B,Pass,2023,No
+CU20260395,Abhishek Malhotra,abhishek.malhotra0395@student.example.com,21,Male,Electronics & Communication,8,Chandigarh,55,57,70,73,80,335,500,67.0,D,Pass,2023,No
+CU20260396,Diya Mishra,diya.mishra0396@student.example.com,19,Female,Computer Science,5,Patiala,78,48,63,70,74,333,500,66.60000000000001,D,Pass,2025,No
+CU20260397,Aanya Sharma,aanya.sharma0397@student.example.com,21,Male,Business Administration,5,Shimla,83,77,98,88,73,419,500,83.8,B,Pass,2022,No
+CU20260398,Rahul Das,rahul.das0398@student.example.com,21,Female,Business Administration,3,Ambala,65,53,52,53,66,289,500,57.8,E,Pass,2022,No
+CU20260399,Navya Saini,navya.saini0399@student.example.com,20,Female,Computer Science,3,Chandigarh,85,66,71,69,84,375,500,75.0,C,Pass,2023,No
+CU20260400,Sahil Das,sahil.das0400@student.example.com,20,Female,Computer Science,2,Lucknow,44,74,80,75,87,360,500,72.0,C,Pass,2024,No
+CU20260401,Manpreet Das,manpreet.das0401@student.example.com,20,Female,Computer Science,5,Ambala,64,79,67,65,50,325,500,65.0,D,Pass,2022,No
+CU20260402,Karan Das,karan.das0402@student.example.com,21,Male,Information Technology,2,Dehradun,66,54,45,54,71,290,500,57.99999999999999,E,Pass,2023,No
+CU20260403,Ananya Verma,ananya.verma0403@student.example.com,21,Male,Information Technology,1,Lucknow,78,74,69,75,89,385,500,77.0,C,Pass,2023,Yes
+CU20260404,Isha Das,isha.das0404@student.example.com,20,Female,Information Technology,6,Delhi,71,64,73,64,71,343,500,68.60000000000001,D,Pass,2025,Yes
+CU20260405,Neha Patel,neha.patel0405@student.example.com,20,Male,Computer Science,4,Ambala,50,61,59,64,59,293,500,58.599999999999994,E,Pass,2024,No
+CU20260406,Kavya Kumar,kavya.kumar0406@student.example.com,19,Male,Civil Engineering,8,Jaipur,68,79,69,78,72,366,500,73.2,C,Pass,2022,No
+CU20260407,Gurpreet Kumar,gurpreet.kumar0407@student.example.com,20,Female,Electronics & Communication,3,Dehradun,69,49,43,38,65,264,500,52.800000000000004,E,Pass,2024,No
+CU20260408,Meera Sharma,meera.sharma0408@student.example.com,22,Male,Information Technology,6,Ludhiana,85,95,100,74,80,434,500,86.8,B,Pass,2025,No
+CU20260409,Gurpreet Mishra,gurpreet.mishra0409@student.example.com,21,Female,Computer Science,1,Chandigarh,82,67,86,68,71,374,500,74.8,C,Pass,2024,No
+CU20260410,Aanya Kaur,aanya.kaur0410@student.example.com,22,Female,Electronics & Communication,7,Pune,66,69,62,64,84,345,500,69.0,D,Pass,2025,No
+CU20260411,Yash Kaur,yash.kaur0411@student.example.com,21,Male,Mechanical Engineering,4,Chandigarh,81,74,47,58,75,335,500,67.0,D,Pass,2025,No
+CU20260412,Gurpreet Verma,gurpreet.verma0412@student.example.com,21,Female,Civil Engineering,6,Chandigarh,85,77,71,70,66,369,500,73.8,C,Pass,2026,No
+CU20260413,Aanya Shah,aanya.shah0413@student.example.com,22,Female,Computer Science,7,Mohali,60,68,73,86,72,359,500,71.8,C,Pass,2025,No
+CU20260414,Yash Bhatia,yash.bhatia0414@student.example.com,20,Male,Computer Science,3,Karnal,87,71,60,90,81,389,500,77.8,C,Pass,2024,No
+CU20260415,Aanya Arora,aanya.arora0415@student.example.com,22,Male,Information Technology,3,Delhi,83,91,86,89,80,429,500,85.8,B,Pass,2022,No
+CU20260416,Ishaan Sharma,ishaan.sharma0416@student.example.com,21,Male,Computer Science,6,Pune,80,77,74,74,80,385,500,77.0,C,Pass,2024,No
+CU20260417,Sahil Arora,sahil.arora0417@student.example.com,22,Male,Computer Science,5,Dehradun,74,48,49,36,59,266,500,53.2,E,Pass,2026,No
+CU20260418,Aarav Singh,aarav.singh0418@student.example.com,20,Female,Computer Science,6,Chandigarh,62,74,64,56,68,324,500,64.8,D,Pass,2023,No
+CU20260419,Ananya Malhotra,ananya.malhotra0419@student.example.com,21,Female,Mechanical Engineering,6,Jaipur,56,68,53,63,85,325,500,65.0,D,Pass,2024,No
+CU20260420,Harpreet Saini,harpreet.saini0420@student.example.com,20,Female,Computer Science,4,Chandigarh,71,68,80,92,91,402,500,80.4,B,Pass,2026,No
+CU20260421,Nisha Nair,nisha.nair0421@student.example.com,21,Male,Information Technology,5,Amritsar,61,73,82,89,68,373,500,74.6,C,Pass,2023,No
+CU20260422,Aanya Mehta,aanya.mehta0422@student.example.com,21,Female,Electronics & Communication,6,Chandigarh,40,58,68,35,77,278,500,55.60000000000001,E,Pass,2025,No
+CU20260423,Nisha Shah,nisha.shah0423@student.example.com,20,Male,Electronics & Communication,6,Jalandhar,77,59,70,74,79,359,500,71.8,C,Pass,2023,No
+CU20260424,Mohit Patel,mohit.patel0424@student.example.com,22,Female,Mechanical Engineering,7,Patiala,94,56,68,68,94,380,500,76.0,C,Pass,2024,Yes
+CU20260425,Abhishek Mishra,abhishek.mishra0425@student.example.com,19,Male,Computer Science,2,Karnal,63,67,72,59,77,338,500,67.60000000000001,D,Pass,2025,No
+CU20260426,Rohan Reddy,rohan.reddy0426@student.example.com,20,Female,Electronics & Communication,6,Amritsar,59,46,69,48,55,277,500,55.400000000000006,E,Pass,2026,No
+CU20260427,Gurpreet Kaur,gurpreet.kaur0427@student.example.com,22,Male,Mechanical Engineering,7,Amritsar,80,60,87,84,65,376,500,75.2,C,Pass,2023,No
+CU20260428,Aditya Nair,aditya.nair0428@student.example.com,20,Male,Information Technology,7,Karnal,59,59,51,71,68,308,500,61.6,D,Pass,2026,No
+CU20260429,Rahul Malhotra,rahul.malhotra0429@student.example.com,19,Female,Information Technology,4,Patiala,57,95,66,71,58,347,500,69.39999999999999,D,Pass,2026,No
+CU20260430,Gurpreet Patel,gurpreet.patel0430@student.example.com,21,Male,Mechanical Engineering,3,Lucknow,70,79,67,83,81,380,500,76.0,C,Pass,2022,No
+CU20260431,Navya Saini,navya.saini0431@student.example.com,21,Female,Information Technology,7,Chandigarh,49,45,66,83,65,308,500,61.6,D,Pass,2026,No
+CU20260432,Abhishek Verma,abhishek.verma0432@student.example.com,21,Female,Business Administration,3,Jaipur,43,66,65,66,87,327,500,65.4,D,Pass,2025,No
+CU20260433,Priya Shah,priya.shah0433@student.example.com,19,Male,Computer Science,7,Dehradun,100,92,88,80,100,460,500,92.0,A,Pass,2025,No
+CU20260434,Mohit Das,mohit.das0434@student.example.com,21,Male,Mechanical Engineering,8,Chandigarh,74,81,91,100,92,438,500,87.6,B,Pass,2024,No
+CU20260435,Gurpreet Reddy,gurpreet.reddy0435@student.example.com,19,Female,Mechanical Engineering,6,Jaipur,56,62,58,66,55,297,500,59.4,E,Pass,2025,No
+CU20260436,Mohit Reddy,mohit.reddy0436@student.example.com,20,Male,Civil Engineering,7,Karnal,71,52,65,67,63,318,500,63.6,D,Pass,2023,No
+CU20260437,Nisha Verma,nisha.verma0437@student.example.com,22,Male,Computer Science,5,Karnal,74,48,76,90,76,364,500,72.8,C,Pass,2024,Yes
+CU20260438,Ishaan Shah,ishaan.shah0438@student.example.com,22,Female,Electronics & Communication,7,Patiala,86,69,78,79,82,394,500,78.8,C,Pass,2022,No
+CU20260439,Simran Sharma,simran.sharma0439@student.example.com,21,Male,Computer Science,7,Amritsar,52,82,74,92,70,370,500,74.0,C,Pass,2024,No
+CU20260440,Mohit Reddy,mohit.reddy0440@student.example.com,22,Female,Computer Science,7,Karnal,66,65,76,59,63,329,500,65.8,D,Pass,2025,No
+CU20260441,Sahil Saini,sahil.saini0441@student.example.com,22,Male,Mechanical Engineering,3,Ambala,67,40,58,39,50,254,500,50.8,E,Pass,2025,No
+CU20260442,Sahil Mishra,sahil.mishra0442@student.example.com,21,Male,Civil Engineering,4,Karnal,74,72,68,60,73,347,500,69.39999999999999,D,Pass,2024,No
+CU20260443,Sahil Mehta,sahil.mehta0443@student.example.com,21,Male,Computer Science,7,Dehradun,77,58,83,74,90,382,500,76.4,C,Pass,2025,No
+CU20260444,Saanvi Kumar,saanvi.kumar0444@student.example.com,21,Female,Civil Engineering,4,Amritsar,65,71,80,64,63,343,500,68.60000000000001,D,Pass,2022,No
+CU20260445,Riya Gill,riya.gill0445@student.example.com,20,Male,Mechanical Engineering,2,Dehradun,33,44,50,64,42,233,500,46.6,F,Fail,2022,No
+CU20260446,Rahul Gupta,rahul.gupta0446@student.example.com,19,Female,Computer Science,7,Pune,70,71,78,75,77,371,500,74.2,C,Pass,2022,No
+CU20260447,Aanya Joshi,aanya.joshi0447@student.example.com,21,Female,Computer Science,7,Delhi,60,60,65,60,58,303,500,60.6,D,Pass,2023,Yes
+CU20260448,Mohit Patel,mohit.patel0448@student.example.com,19,Male,Computer Science,1,Patiala,70,44,70,75,62,321,500,64.2,D,Pass,2023,Yes
+CU20260449,Saanvi Joshi,saanvi.joshi0449@student.example.com,20,Female,Business Administration,4,Ambala,70,67,96,64,78,375,500,75.0,C,Pass,2025,No
+CU20260450,Vivaan Kumar,vivaan.kumar0450@student.example.com,20,Male,Mechanical Engineering,4,Jaipur,55,72,72,56,68,323,500,64.60000000000001,D,Pass,2023,Yes
+CU20260451,Isha Bhatia,isha.bhatia0451@student.example.com,20,Male,Information Technology,6,Jaipur,100,93,95,94,90,472,500,94.39999999999999,A,Pass,2024,No
+CU20260452,Saanvi Gill,saanvi.gill0452@student.example.com,22,Female,Computer Science,6,Ludhiana,39,56,67,62,53,277,500,55.400000000000006,E,Pass,2024,No
+CU20260453,Navya Patel,navya.patel0453@student.example.com,19,Female,Electronics & Communication,8,Shimla,52,70,63,59,79,323,500,64.60000000000001,D,Pass,2022,No
+CU20260454,Mohit Chauhan,mohit.chauhan0454@student.example.com,22,Female,Information Technology,1,Karnal,72,67,77,90,90,396,500,79.2,C,Pass,2022,No
+CU20260455,Mohit Arora,mohit.arora0455@student.example.com,20,Female,Information Technology,3,Pune,55,52,67,63,67,304,500,60.8,D,Pass,2025,Yes
+CU20260456,Rahul Singh,rahul.singh0456@student.example.com,22,Female,Civil Engineering,5,Ambala,43,45,60,51,67,266,500,53.2,E,Pass,2026,No
+CU20260457,Saanvi Reddy,saanvi.reddy0457@student.example.com,23,Female,Information Technology,3,Shimla,100,100,100,100,100,500,500,100.0,A,Pass,2026,Yes
+CU20260458,Diya Bhatia,diya.bhatia0458@student.example.com,20,Female,Computer Science,7,Lucknow,66,47,82,75,83,353,500,70.6,C,Pass,2025,No
+CU20260459,Ishaan Nair,ishaan.nair0459@student.example.com,20,Female,Electronics & Communication,4,Ambala,59,59,63,70,69,320,500,64.0,D,Pass,2025,No
+CU20260460,Vivaan Kaur,vivaan.kaur0460@student.example.com,20,Female,Mechanical Engineering,4,Jalandhar,70,57,79,93,71,370,500,74.0,C,Pass,2025,No
+CU20260461,Ananya Gupta,ananya.gupta0461@student.example.com,18,Male,Mechanical Engineering,7,Patiala,63,81,96,100,86,426,500,85.2,B,Pass,2026,Yes
+CU20260462,Aditya Nair,aditya.nair0462@student.example.com,19,Male,Computer Science,3,Ambala,76,72,64,66,80,358,500,71.6,C,Pass,2025,Yes
+CU20260463,Simran Kaur,simran.kaur0463@student.example.com,21,Male,Information Technology,6,Patiala,48,60,67,45,52,272,500,54.400000000000006,E,Pass,2025,No
+CU20260464,Sahil Bhatia,sahil.bhatia0464@student.example.com,19,Female,Computer Science,5,Lucknow,50,58,65,66,53,292,500,58.4,E,Pass,2025,Yes
+CU20260465,Arjun Kaur,arjun.kaur0465@student.example.com,19,Female,Computer Science,1,Jaipur,56,59,78,54,63,310,500,62.0,D,Pass,2025,No
+CU20260466,Simran Bhatia,simran.bhatia0466@student.example.com,18,Male,Information Technology,6,Amritsar,79,71,84,75,92,401,500,80.2,B,Pass,2022,No
+CU20260467,Jaspreet Saini,jaspreet.saini0467@student.example.com,21,Male,Computer Science,7,Delhi,77,84,76,93,89,419,500,83.8,B,Pass,2023,No
+CU20260468,Aditya Kumar,aditya.kumar0468@student.example.com,23,Female,Electronics & Communication,2,Shimla,64,45,62,67,66,304,500,60.8,D,Pass,2024,No
+CU20260469,Abhishek Joshi,abhishek.joshi0469@student.example.com,21,Male,Mechanical Engineering,2,Delhi,41,53,67,69,57,287,500,57.4,E,Pass,2022,No
+CU20260470,Aditya Saini,aditya.saini0470@student.example.com,19,Female,Electronics & Communication,1,Lucknow,50,57,39,38,33,217,500,43.4,F,Fail,2023,No
+CU20260471,Ananya Kumar,ananya.kumar0471@student.example.com,23,Male,Electronics & Communication,7,Jalandhar,71,50,80,95,87,383,500,76.6,C,Pass,2026,Yes
+CU20260472,Karan Bhatia,karan.bhatia0472@student.example.com,23,Female,Electronics & Communication,5,Patiala,41,81,68,84,62,336,500,67.2,D,Pass,2023,No
+CU20260473,Aditya Arora,aditya.arora0473@student.example.com,21,Male,Information Technology,2,Mohali,68,80,83,65,70,366,500,73.2,C,Pass,2024,No
+CU20260474,Aman Sharma,aman.sharma0474@student.example.com,20,Male,Information Technology,2,Chandigarh,65,64,50,74,68,321,500,64.2,D,Pass,2022,Yes
+CU20260475,Aditya Verma,aditya.verma0475@student.example.com,22,Male,Computer Science,2,Dehradun,68,54,66,59,71,318,500,63.6,D,Pass,2023,No
+CU20260476,Kavya Nair,kavya.nair0476@student.example.com,24,Female,Business Administration,7,Pune,76,62,56,61,60,315,500,63.0,D,Pass,2023,No
+CU20260477,Priya Kumar,priya.kumar0477@student.example.com,22,Male,Electronics & Communication,1,Karnal,34,55,49,62,55,255,500,51.0,E,Pass,2025,No
+CU20260478,Mohit Shah,mohit.shah0478@student.example.com,21,Male,Electronics & Communication,6,Chandigarh,71,60,64,62,55,312,500,62.4,D,Pass,2025,No
+CU20260479,Nisha Das,nisha.das0479@student.example.com,21,Female,Electronics & Communication,1,Pune,52,64,51,47,52,266,500,53.2,E,Pass,2023,Yes
+CU20260480,Aanya Kaur,aanya.kaur0480@student.example.com,20,Male,Electronics & Communication,2,Mohali,58,66,78,76,95,373,500,74.6,C,Pass,2026,No
+CU20260481,Yash Arora,yash.arora0481@student.example.com,22,Female,Mechanical Engineering,5,Delhi,63,60,53,65,68,309,500,61.8,D,Pass,2022,Yes
+CU20260482,Kavya Gupta,kavya.gupta0482@student.example.com,20,Female,Computer Science,7,Delhi,79,67,78,68,65,357,500,71.39999999999999,C,Pass,2022,No
+CU20260483,Priya Joshi,priya.joshi0483@student.example.com,20,Male,Information Technology,6,Jalandhar,60,66,56,67,52,301,500,60.199999999999996,D,Pass,2025,No
+CU20260484,Priya Verma,priya.verma0484@student.example.com,19,Female,Business Administration,2,Lucknow,71,57,50,41,71,290,500,57.99999999999999,E,Pass,2025,No
+CU20260485,Ishaan Nair,ishaan.nair0485@student.example.com,20,Female,Computer Science,4,Lucknow,75,54,86,73,56,344,500,68.8,D,Pass,2025,No
+CU20260486,Yash Mehta,yash.mehta0486@student.example.com,20,Male,Computer Science,8,Ambala,55,51,52,64,87,309,500,61.8,D,Pass,2025,No
+CU20260487,Aanya Shah,aanya.shah0487@student.example.com,20,Male,Business Administration,6,Lucknow,60,64,75,87,70,356,500,71.2,C,Pass,2023,No
+CU20260488,Harpreet Gupta,harpreet.gupta0488@student.example.com,21,Male,Mechanical Engineering,8,Mohali,95,89,96,100,100,480,500,96.0,A,Pass,2023,No
+CU20260489,Karan Verma,karan.verma0489@student.example.com,20,Female,Electronics & Communication,3,Patiala,71,62,82,73,67,355,500,71.0,C,Pass,2024,No
+CU20260490,Rohan Chauhan,rohan.chauhan0490@student.example.com,25,Female,Information Technology,4,Ludhiana,70,54,81,69,93,367,500,73.4,C,Pass,2024,No
+CU20260491,Arjun Shah,arjun.shah0491@student.example.com,20,Male,Business Administration,5,Patiala,57,42,51,33,42,225,500,45.0,F,Fail,2025,No
+CU20260492,Karan Arora,karan.arora0492@student.example.com,23,Female,Information Technology,5,Mohali,81,62,81,61,100,385,500,77.0,C,Pass,2024,No
+CU20260493,Karan Shah,karan.shah0493@student.example.com,21,Male,Electronics & Communication,7,Mohali,82,60,75,77,74,368,500,73.6,C,Pass,2024,Yes
+CU20260494,Nisha Verma,nisha.verma0494@student.example.com,21,Male,Civil Engineering,2,Amritsar,72,80,78,85,95,410,500,82.0,B,Pass,2023,Yes
+CU20260495,Riya Das,riya.das0495@student.example.com,20,Male,Computer Science,6,Jalandhar,61,64,70,75,70,340,500,68.0,D,Pass,2025,No
+CU20260496,Aarav Patel,aarav.patel0496@student.example.com,23,Female,Computer Science,1,Lucknow,22,49,60,53,49,233,500,46.6,F,Fail,2022,No
+CU20260497,Kavya Kumar,kavya.kumar0497@student.example.com,22,Male,Computer Science,2,Pune,79,80,68,82,72,381,500,76.2,C,Pass,2023,No
+CU20260498,Aditya Patel,aditya.patel0498@student.example.com,19,Female,Computer Science,8,Amritsar,40,58,53,36,68,255,500,51.0,E,Pass,2024,No
+CU20260499,Manpreet Bhatia,manpreet.bhatia0499@student.example.com,18,Male,Business Administration,7,Karnal,85,80,76,68,86,395,500,79.0,C,Pass,2024,No
+CU20260500,Riya Bhatia,riya.bhatia0500@student.example.com,21,Male,Computer Science,6,Chandigarh,54,52,64,58,64,292,500,58.4,E,Pass,2025,No
+CU20260501,Abhishek Nair,abhishek.nair0501@student.example.com,23,Female,Computer Science,7,Jaipur,100,90,75,98,89,452,500,90.4,A,Pass,2024,No
+CU20260502,Vivaan Bhatia,vivaan.bhatia0502@student.example.com,20,Male,Mechanical Engineering,6,Jalandhar,72,70,91,71,72,376,500,75.2,C,Pass,2022,Yes
+CU20260503,Karan Gupta,karan.gupta0503@student.example.com,22,Female,Electronics & Communication,1,Ludhiana,76,77,74,84,84,395,500,79.0,C,Pass,2024,No
+CU20260504,Arjun Verma,arjun.verma0504@student.example.com,20,Male,Information Technology,4,Lucknow,97,88,81,91,100,457,500,91.4,A,Pass,2022,No
+CU20260505,Meera Nair,meera.nair0505@student.example.com,22,Male,Electronics & Communication,8,Ambala,86,77,96,70,86,415,500,83.0,B,Pass,2022,No
+CU20260506,Aman Saini,aman.saini0506@student.example.com,20,Male,Computer Science,8,Shimla,51,71,53,80,80,335,500,67.0,D,Pass,2025,No
+CU20260507,Aditya Gupta,aditya.gupta0507@student.example.com,19,Male,Information Technology,5,Shimla,67,69,80,82,100,398,500,79.60000000000001,C,Pass,2023,No
+CU20260508,Rahul Arora,rahul.arora0508@student.example.com,21,Male,Electronics & Communication,7,Ludhiana,62,67,43,39,57,268,500,53.6,E,Pass,2022,Yes
+CU20260509,Rohan Malhotra,rohan.malhotra0509@student.example.com,20,Female,Computer Science,7,Jaipur,72,48,74,51,59,304,500,60.8,D,Pass,2024,No
+CU20260510,Sahil Kumar,sahil.kumar0510@student.example.com,20,Male,Computer Science,6,Ludhiana,74,70,79,82,73,378,500,75.6,C,Pass,2025,No
+CU20260511,Simran Nair,simran.nair0511@student.example.com,22,Female,Business Administration,1,Karnal,77,81,75,71,87,391,500,78.2,C,Pass,2024,Yes
+CU20260512,Diya Singh,diya.singh0512@student.example.com,21,Female,Computer Science,8,Jaipur,77,67,64,84,84,376,500,75.2,C,Pass,2023,No
+CU20260513,Ananya Kumar,ananya.kumar0513@student.example.com,20,Male,Mechanical Engineering,1,Mohali,75,80,66,83,73,377,500,75.4,C,Pass,2025,No
+CU20260514,Aditya Nair,aditya.nair0514@student.example.com,20,Male,Computer Science,8,Delhi,42,66,46,53,54,261,500,52.2,E,Pass,2023,No
+CU20260515,Meera Reddy,meera.reddy0515@student.example.com,20,Male,Electronics & Communication,4,Ambala,55,44,75,48,48,270,500,54.0,E,Pass,2025,No
+CU20260516,Rahul Nair,rahul.nair0516@student.example.com,18,Male,Business Administration,5,Jaipur,59,52,67,68,66,312,500,62.4,D,Pass,2024,Yes
+CU20260517,Ishaan Reddy,ishaan.reddy0517@student.example.com,21,Male,Business Administration,1,Patiala,51,79,81,64,83,358,500,71.6,C,Pass,2025,No
+CU20260518,Abhishek Kaur,abhishek.kaur0518@student.example.com,20,Female,Computer Science,1,Patiala,67,68,79,73,57,344,500,68.8,D,Pass,2025,No
+CU20260519,Kavya Chauhan,kavya.chauhan0519@student.example.com,21,Male,Business Administration,1,Dehradun,64,70,78,78,76,366,500,73.2,C,Pass,2025,Yes
+CU20260520,Riya Gill,riya.gill0520@student.example.com,21,Male,Business Administration,1,Chandigarh,74,68,87,83,66,378,500,75.6,C,Pass,2022,No
+CU20260521,Priya Reddy,priya.reddy0521@student.example.com,22,Female,Computer Science,4,Delhi,94,66,60,68,55,343,500,68.60000000000001,D,Pass,2024,No
+CU20260522,Arjun Bhatia,arjun.bhatia0522@student.example.com,18,Female,Mechanical Engineering,5,Shimla,54,68,55,77,81,335,500,67.0,D,Pass,2022,No
+CU20260523,Aanya Gill,aanya.gill0523@student.example.com,19,Male,Civil Engineering,5,Jaipur,32,42,49,53,56,232,500,46.400000000000006,F,Fail,2024,No
+CU20260524,Meera Mishra,meera.mishra0524@student.example.com,23,Female,Civil Engineering,1,Jalandhar,83,84,90,92,86,435,500,87.0,B,Pass,2026,No
+CU20260525,Harpreet Shah,harpreet.shah0525@student.example.com,20,Female,Computer Science,3,Dehradun,59,68,83,83,78,371,500,74.2,C,Pass,2025,No
+CU20260526,Jaspreet Shah,jaspreet.shah0526@student.example.com,22,Female,Civil Engineering,2,Dehradun,54,29,57,45,67,252,500,50.4,E,Pass,2024,No
+CU20260527,Meera Gupta,meera.gupta0527@student.example.com,21,Male,Computer Science,8,Pune,68,38,74,66,56,302,500,60.4,D,Pass,2025,No
+CU20260528,Rohan Malhotra,rohan.malhotra0528@student.example.com,23,Male,Information Technology,3,Amritsar,100,85,90,95,100,470,500,94.0,A,Pass,2025,No
+CU20260529,Aanya Bhatia,aanya.bhatia0529@student.example.com,23,Female,Civil Engineering,4,Jalandhar,80,64,79,54,59,336,500,67.2,D,Pass,2024,No
+CU20260530,Neha Joshi,neha.joshi0530@student.example.com,21,Female,Computer Science,7,Ludhiana,96,86,100,94,94,470,500,94.0,A,Pass,2024,No
+CU20260531,Harpreet Malhotra,harpreet.malhotra0531@student.example.com,20,Male,Civil Engineering,4,Lucknow,46,46,62,66,66,286,500,57.199999999999996,E,Pass,2025,Yes
+CU20260532,Rahul Arora,rahul.arora0532@student.example.com,20,Male,Information Technology,4,Ludhiana,66,72,77,62,69,346,500,69.19999999999999,D,Pass,2025,No
+CU20260533,Jaspreet Chauhan,jaspreet.chauhan0533@student.example.com,22,Male,Computer Science,6,Jalandhar,78,66,71,81,96,392,500,78.4,C,Pass,2024,No
+CU20260534,Yash Sharma,yash.sharma0534@student.example.com,22,Female,Information Technology,8,Karnal,87,71,70,77,62,367,500,73.4,C,Pass,2024,No
+CU20260535,Ishaan Singh,ishaan.singh0535@student.example.com,18,Female,Civil Engineering,3,Lucknow,73,63,57,75,58,326,500,65.2,D,Pass,2023,No
+CU20260536,Yash Das,yash.das0536@student.example.com,22,Female,Electronics & Communication,2,Karnal,49,35,46,54,62,246,500,49.2,F,Fail,2025,No
+CU20260537,Nisha Das,nisha.das0537@student.example.com,20,Male,Electronics & Communication,3,Pune,61,50,65,45,51,272,500,54.400000000000006,E,Pass,2025,No
+CU20260538,Navya Gill,navya.gill0538@student.example.com,21,Male,Information Technology,1,Chandigarh,68,62,76,90,73,369,500,73.8,C,Pass,2023,No
+CU20260539,Isha Nair,isha.nair0539@student.example.com,19,Male,Computer Science,1,Jalandhar,72,55,68,82,77,354,500,70.8,C,Pass,2023,No
+CU20260540,Diya Saini,diya.saini0540@student.example.com,21,Male,Electronics & Communication,8,Shimla,100,91,92,81,96,460,500,92.0,A,Pass,2026,No
+CU20260541,Aman Reddy,aman.reddy0541@student.example.com,19,Male,Business Administration,6,Dehradun,49,64,89,84,83,369,500,73.8,C,Pass,2023,No
+CU20260542,Kavya Reddy,kavya.reddy0542@student.example.com,23,Female,Mechanical Engineering,1,Dehradun,75,73,67,73,72,360,500,72.0,C,Pass,2024,No
+CU20260543,Navya Saini,navya.saini0543@student.example.com,19,Male,Business Administration,8,Dehradun,93,75,99,68,80,415,500,83.0,B,Pass,2022,No
+CU20260544,Yash Shah,yash.shah0544@student.example.com,22,Female,Computer Science,1,Lucknow,77,68,74,66,69,354,500,70.8,C,Pass,2023,No
+CU20260545,Sahil Malhotra,sahil.malhotra0545@student.example.com,19,Male,Electronics & Communication,5,Chandigarh,90,71,57,96,85,399,500,79.80000000000001,C,Pass,2023,Yes
+CU20260546,Navya Mishra,navya.mishra0546@student.example.com,21,Male,Electronics & Communication,6,Ludhiana,49,64,85,46,60,304,500,60.8,D,Pass,2023,Yes
+CU20260547,Ananya Gupta,ananya.gupta0547@student.example.com,21,Male,Computer Science,5,Dehradun,61,51,92,77,83,364,500,72.8,C,Pass,2026,No
+CU20260548,Aarav Gupta,aarav.gupta0548@student.example.com,23,Female,Information Technology,8,Ludhiana,72,83,63,77,62,357,500,71.39999999999999,C,Pass,2023,No
+CU20260549,Jaspreet Shah,jaspreet.shah0549@student.example.com,19,Female,Civil Engineering,6,Shimla,61,87,53,81,83,365,500,73.0,C,Pass,2022,Yes
+CU20260550,Vivaan Sharma,vivaan.sharma0550@student.example.com,20,Male,Civil Engineering,6,Lucknow,65,66,92,60,72,355,500,71.0,C,Pass,2025,No
+CU20260551,Aditya Patel,aditya.patel0551@student.example.com,18,Female,Electronics & Communication,6,Jalandhar,77,87,74,85,58,381,500,76.2,C,Pass,2025,No
+CU20260552,Diya Gupta,diya.gupta0552@student.example.com,19,Female,Mechanical Engineering,3,Chandigarh,77,66,90,79,81,393,500,78.60000000000001,C,Pass,2025,No
+CU20260553,Priya Arora,priya.arora0553@student.example.com,20,Male,Mechanical Engineering,2,Jalandhar,78,68,91,65,77,379,500,75.8,C,Pass,2024,No
+CU20260554,Gurpreet Mehta,gurpreet.mehta0554@student.example.com,21,Male,Computer Science,3,Lucknow,67,81,57,85,74,364,500,72.8,C,Pass,2024,No
+CU20260555,Abhishek Gill,abhishek.gill0555@student.example.com,20,Female,Mechanical Engineering,6,Mohali,48,47,45,73,62,275,500,55.00000000000001,E,Pass,2023,Yes
+CU20260556,Aditya Saini,aditya.saini0556@student.example.com,21,Female,Information Technology,1,Amritsar,70,69,65,91,65,360,500,72.0,C,Pass,2024,No
+CU20260557,Diya Nair,diya.nair0557@student.example.com,22,Female,Computer Science,7,Amritsar,49,65,67,43,61,285,500,56.99999999999999,E,Pass,2024,No
+CU20260558,Aditya Gupta,aditya.gupta0558@student.example.com,18,Male,Electronics & Communication,7,Chandigarh,58,75,83,88,91,395,500,79.0,C,Pass,2025,No
+CU20260559,Isha Saini,isha.saini0559@student.example.com,19,Female,Electronics & Communication,3,Jaipur,59,74,72,69,82,356,500,71.2,C,Pass,2024,No
+CU20260560,Jaspreet Gupta,jaspreet.gupta0560@student.example.com,21,Male,Information Technology,1,Amritsar,71,68,79,82,72,372,500,74.4,C,Pass,2025,Yes
+CU20260561,Isha Sharma,isha.sharma0561@student.example.com,21,Male,Business Administration,3,Patiala,95,86,84,90,98,453,500,90.60000000000001,A,Pass,2024,No
+CU20260562,Aanya Gill,aanya.gill0562@student.example.com,20,Female,Information Technology,5,Ambala,50,59,74,58,72,313,500,62.6,D,Pass,2025,No
+CU20260563,Ananya Chauhan,ananya.chauhan0563@student.example.com,22,Female,Information Technology,5,Amritsar,67,65,91,51,55,329,500,65.8,D,Pass,2024,No
+CU20260564,Neha Malhotra,neha.malhotra0564@student.example.com,22,Male,Electronics & Communication,5,Chandigarh,52,42,82,72,63,311,500,62.2,D,Pass,2024,Yes
+CU20260565,Sahil Nair,sahil.nair0565@student.example.com,23,Female,Electronics & Communication,4,Dehradun,77,60,57,82,71,347,500,69.39999999999999,D,Pass,2025,No
+CU20260566,Kavya Verma,kavya.verma0566@student.example.com,21,Male,Computer Science,3,Jalandhar,98,63,62,69,84,376,500,75.2,C,Pass,2022,Yes
+CU20260567,Sahil Saini,sahil.saini0567@student.example.com,18,Male,Civil Engineering,1,Karnal,71,57,63,50,62,303,500,60.6,D,Pass,2022,No
+CU20260568,Gurpreet Mehta,gurpreet.mehta0568@student.example.com,20,Female,Electronics & Communication,6,Amritsar,75,78,90,87,96,426,500,85.2,B,Pass,2025,No
+CU20260569,Karan Shah,karan.shah0569@student.example.com,21,Female,Computer Science,4,Mohali,51,80,62,50,54,297,500,59.4,E,Pass,2023,No
+CU20260570,Priya Kaur,priya.kaur0570@student.example.com,23,Male,Electronics & Communication,2,Ambala,92,90,98,98,100,478,500,95.6,A,Pass,2025,Yes
+CU20260571,Karan Verma,karan.verma0571@student.example.com,21,Male,Computer Science,2,Karnal,73,56,47,59,57,292,500,58.4,E,Pass,2024,No
+CU20260572,Abhishek Sharma,abhishek.sharma0572@student.example.com,21,Male,Computer Science,4,Delhi,84,82,92,71,77,406,500,81.2,B,Pass,2024,No
+CU20260573,Aarav Gill,aarav.gill0573@student.example.com,19,Male,Computer Science,5,Chandigarh,64,69,56,50,59,298,500,59.599999999999994,E,Pass,2024,Yes
+CU20260574,Priya Sharma,priya.sharma0574@student.example.com,18,Male,Mechanical Engineering,1,Shimla,46,51,59,57,55,268,500,53.6,E,Pass,2024,No
+CU20260575,Abhishek Mishra,abhishek.mishra0575@student.example.com,21,Male,Computer Science,7,Delhi,64,47,43,58,63,275,500,55.00000000000001,E,Pass,2022,Yes
+CU20260576,Ananya Gill,ananya.gill0576@student.example.com,19,Female,Computer Science,3,Ludhiana,67,66,60,80,68,341,500,68.2,D,Pass,2024,No
+CU20260577,Navya Patel,navya.patel0577@student.example.com,20,Female,Business Administration,4,Lucknow,77,59,84,70,64,354,500,70.8,C,Pass,2024,No
+CU20260578,Sahil Saini,sahil.saini0578@student.example.com,22,Male,Electronics & Communication,1,Karnal,66,62,85,98,64,375,500,75.0,C,Pass,2025,No
+CU20260579,Ananya Kaur,ananya.kaur0579@student.example.com,21,Male,Information Technology,6,Chandigarh,91,63,69,69,78,370,500,74.0,C,Pass,2023,No
+CU20260580,Navya Saini,navya.saini0580@student.example.com,19,Female,Computer Science,5,Lucknow,53,44,59,57,65,278,500,55.60000000000001,E,Pass,2025,Yes
+CU20260581,Sahil Reddy,sahil.reddy0581@student.example.com,22,Female,Electronics & Communication,7,Jaipur,63,71,66,60,62,322,500,64.4,D,Pass,2025,No
+CU20260582,Diya Kaur,diya.kaur0582@student.example.com,21,Male,Electronics & Communication,2,Ludhiana,57,50,49,54,56,266,500,53.2,E,Pass,2023,No
+CU20260583,Sahil Kumar,sahil.kumar0583@student.example.com,21,Male,Information Technology,3,Ludhiana,53,77,66,67,83,346,500,69.19999999999999,D,Pass,2025,No
+CU20260584,Saanvi Malhotra,saanvi.malhotra0584@student.example.com,20,Female,Mechanical Engineering,8,Jalandhar,42,54,63,83,43,285,500,56.99999999999999,E,Pass,2026,Yes
+CU20260585,Rohan Shah,rohan.shah0585@student.example.com,21,Male,Business Administration,5,Amritsar,62,46,41,66,38,253,500,50.6,E,Pass,2025,Yes
+CU20260586,Jaspreet Shah,jaspreet.shah0586@student.example.com,20,Female,Civil Engineering,2,Ambala,56,42,55,31,56,240,500,48.0,F,Fail,2026,No
+CU20260587,Priya Sharma,priya.sharma0587@student.example.com,19,Female,Information Technology,3,Ambala,97,63,56,80,64,360,500,72.0,C,Pass,2026,No
+CU20260588,Ishaan Gupta,ishaan.gupta0588@student.example.com,19,Female,Civil Engineering,4,Patiala,66,67,98,58,79,368,500,73.6,C,Pass,2023,No
+CU20260589,Arjun Bhatia,arjun.bhatia0589@student.example.com,21,Female,Information Technology,5,Chandigarh,75,51,86,69,76,357,500,71.39999999999999,C,Pass,2022,No
+CU20260590,Saanvi Gill,saanvi.gill0590@student.example.com,20,Male,Business Administration,3,Amritsar,66,62,74,84,77,363,500,72.6,C,Pass,2026,No
+CU20260591,Priya Saini,priya.saini0591@student.example.com,22,Male,Information Technology,2,Jalandhar,73,69,65,70,81,358,500,71.6,C,Pass,2025,No
+CU20260592,Priya Kumar,priya.kumar0592@student.example.com,20,Female,Business Administration,3,Patiala,67,60,58,65,85,335,500,67.0,D,Pass,2023,No
+CU20260593,Isha Arora,isha.arora0593@student.example.com,19,Female,Mechanical Engineering,8,Amritsar,54,53,45,68,48,268,500,53.6,E,Pass,2025,Yes
+CU20260594,Aanya Malhotra,aanya.malhotra0594@student.example.com,21,Male,Information Technology,6,Chandigarh,73,60,80,65,71,349,500,69.8,D,Pass,2026,No
+CU20260595,Mohit Joshi,mohit.joshi0595@student.example.com,20,Male,Computer Science,4,Amritsar,73,71,52,68,50,314,500,62.8,D,Pass,2026,No
+CU20260596,Gurpreet Shah,gurpreet.shah0596@student.example.com,19,Male,Computer Science,8,Ludhiana,69,57,76,78,63,343,500,68.60000000000001,D,Pass,2022,No
+CU20260597,Aanya Reddy,aanya.reddy0597@student.example.com,19,Male,Electronics & Communication,1,Jaipur,64,72,76,94,78,384,500,76.8,C,Pass,2025,No
+CU20260598,Rohan Gupta,rohan.gupta0598@student.example.com,19,Male,Electronics & Communication,2,Delhi,63,73,63,84,65,348,500,69.6,D,Pass,2025,No
+CU20260599,Vivaan Shah,vivaan.shah0599@student.example.com,22,Male,Computer Science,8,Amritsar,55,50,60,51,51,267,500,53.400000000000006,E,Pass,2025,No
+CU20260600,Aanya Singh,aanya.singh0600@student.example.com,21,Male,Mechanical Engineering,8,Ambala,65,55,77,80,82,359,500,71.8,C,Pass,2025,Yes
+CU20260601,Priya Gupta,priya.gupta0601@student.example.com,22,Female,Computer Science,5,Patiala,71,63,83,78,66,361,500,72.2,C,Pass,2023,No
+CU20260602,Ananya Singh,ananya.singh0602@student.example.com,20,Female,Mechanical Engineering,3,Dehradun,48,69,52,64,54,287,500,57.4,E,Pass,2023,No
+CU20260603,Sahil Malhotra,sahil.malhotra0603@student.example.com,20,Male,Information Technology,8,Pune,65,59,81,76,74,355,500,71.0,C,Pass,2024,Yes
+CU20260604,Mohit Nair,mohit.nair0604@student.example.com,23,Male,Computer Science,1,Jalandhar,89,85,85,100,81,440,500,88.0,B,Pass,2025,No
+CU20260605,Aman Mehta,aman.mehta0605@student.example.com,20,Male,Computer Science,3,Dehradun,60,67,94,66,77,364,500,72.8,C,Pass,2026,Yes
+CU20260606,Arjun Reddy,arjun.reddy0606@student.example.com,19,Male,Information Technology,2,Jalandhar,50,59,69,32,57,267,500,53.400000000000006,E,Pass,2025,No
+CU20260607,Rahul Saini,rahul.saini0607@student.example.com,21,Female,Information Technology,3,Patiala,51,72,73,78,64,338,500,67.60000000000001,D,Pass,2022,No
+CU20260608,Aarav Patel,aarav.patel0608@student.example.com,20,Female,Computer Science,4,Jalandhar,66,51,70,73,80,340,500,68.0,D,Pass,2026,No
+CU20260609,Arjun Reddy,arjun.reddy0609@student.example.com,20,Female,Information Technology,3,Patiala,37,60,45,47,48,237,500,47.4,F,Fail,2026,No
+CU20260610,Yash Gill,yash.gill0610@student.example.com,24,Male,Civil Engineering,5,Ludhiana,80,84,64,69,60,357,500,71.39999999999999,C,Pass,2024,No
+CU20260611,Meera Malhotra,meera.malhotra0611@student.example.com,20,Female,Computer Science,1,Patiala,72,59,58,66,82,337,500,67.4,D,Pass,2024,Yes
+CU20260612,Jaspreet Joshi,jaspreet.joshi0612@student.example.com,18,Male,Business Administration,6,Dehradun,82,64,95,72,90,403,500,80.60000000000001,B,Pass,2022,No
+CU20260613,Arjun Chauhan,arjun.chauhan0613@student.example.com,19,Male,Information Technology,4,Ambala,58,64,65,65,46,298,500,59.599999999999994,E,Pass,2022,Yes
+CU20260614,Vivaan Gill,vivaan.gill0614@student.example.com,21,Female,Electronics & Communication,3,Lucknow,60,48,68,61,77,314,500,62.8,D,Pass,2026,Yes
+CU20260615,Riya Malhotra,riya.malhotra0615@student.example.com,21,Female,Civil Engineering,3,Mohali,98,100,83,85,86,452,500,90.4,A,Pass,2026,No
+CU20260616,Manpreet Patel,manpreet.patel0616@student.example.com,22,Male,Civil Engineering,6,Mohali,33,63,67,44,60,267,500,53.400000000000006,E,Pass,2022,No
+CU20260617,Abhishek Shah,abhishek.shah0617@student.example.com,23,Female,Computer Science,8,Patiala,62,66,41,76,55,300,500,60.0,D,Pass,2025,No
+CU20260618,Yash Shah,yash.shah0618@student.example.com,25,Female,Mechanical Engineering,7,Delhi,26,38,62,51,45,222,500,44.4,F,Fail,2024,No
+CU20260619,Simran Singh,simran.singh0619@student.example.com,22,Female,Computer Science,3,Ludhiana,64,55,51,69,74,313,500,62.6,D,Pass,2024,No
+CU20260620,Kavya Das,kavya.das0620@student.example.com,20,Male,Business Administration,1,Pune,74,100,88,88,100,450,500,90.0,A,Pass,2023,No
+CU20260621,Priya Mishra,priya.mishra0621@student.example.com,21,Female,Business Administration,7,Ludhiana,56,63,76,80,68,343,500,68.60000000000001,D,Pass,2022,No
+CU20260622,Navya Mishra,navya.mishra0622@student.example.com,22,Female,Computer Science,3,Shimla,85,73,71,89,90,408,500,81.6,B,Pass,2023,Yes
+CU20260623,Priya Malhotra,priya.malhotra0623@student.example.com,21,Female,Computer Science,6,Mohali,79,70,64,65,76,354,500,70.8,C,Pass,2025,No
+CU20260624,Sahil Gupta,sahil.gupta0624@student.example.com,21,Female,Business Administration,2,Mohali,83,84,81,67,77,392,500,78.4,C,Pass,2023,No
+CU20260625,Saanvi Reddy,saanvi.reddy0625@student.example.com,19,Male,Computer Science,3,Jalandhar,69,62,73,79,71,354,500,70.8,C,Pass,2025,No
+CU20260626,Neha Bhatia,neha.bhatia0626@student.example.com,21,Male,Computer Science,5,Chandigarh,93,49,60,78,62,342,500,68.4,D,Pass,2025,No
+CU20260627,Meera Das,meera.das0627@student.example.com,18,Male,Computer Science,1,Jaipur,84,87,85,87,87,430,500,86.0,B,Pass,2025,No
+CU20260628,Vivaan Reddy,vivaan.reddy0628@student.example.com,20,Male,Computer Science,3,Ambala,82,59,65,62,75,343,500,68.60000000000001,D,Pass,2024,No
+CU20260629,Gurpreet Malhotra,gurpreet.malhotra0629@student.example.com,20,Male,Electronics & Communication,1,Lucknow,53,53,51,46,42,245,500,49.0,F,Fail,2025,No
+CU20260630,Vivaan Chauhan,vivaan.chauhan0630@student.example.com,22,Male,Civil Engineering,1,Chandigarh,67,60,68,58,55,308,500,61.6,D,Pass,2023,No
+CU20260631,Navya Nair,navya.nair0631@student.example.com,20,Male,Business Administration,6,Lucknow,74,92,84,80,75,405,500,81.0,B,Pass,2022,No
+CU20260632,Meera Gill,meera.gill0632@student.example.com,21,Male,Business Administration,2,Ambala,79,77,66,82,85,389,500,77.8,C,Pass,2022,No
+CU20260633,Navya Gupta,navya.gupta0633@student.example.com,22,Male,Computer Science,8,Dehradun,50,48,61,74,71,304,500,60.8,D,Pass,2026,No
+CU20260634,Gurpreet Das,gurpreet.das0634@student.example.com,19,Male,Information Technology,5,Chandigarh,44,42,32,28,29,175,500,35.0,F,Fail,2023,No
+CU20260635,Riya Reddy,riya.reddy0635@student.example.com,21,Female,Mechanical Engineering,3,Chandigarh,56,47,51,71,59,284,500,56.8,E,Pass,2023,No
+CU20260636,Saanvi Saini,saanvi.saini0636@student.example.com,18,Male,Mechanical Engineering,6,Shimla,45,62,63,36,37,243,500,48.6,F,Fail,2024,No
+CU20260637,Kavya Shah,kavya.shah0637@student.example.com,20,Male,Civil Engineering,2,Chandigarh,70,67,75,62,73,347,500,69.39999999999999,D,Pass,2024,No
+CU20260638,Aarav Bhatia,aarav.bhatia0638@student.example.com,21,Female,Computer Science,7,Shimla,94,100,77,80,96,447,500,89.4,B,Pass,2026,Yes
+CU20260639,Navya Arora,navya.arora0639@student.example.com,20,Female,Electronics & Communication,4,Mohali,93,86,93,87,77,436,500,87.2,B,Pass,2024,No
+CU20260640,Neha Reddy,neha.reddy0640@student.example.com,19,Male,Computer Science,2,Delhi,60,48,52,74,35,269,500,53.800000000000004,E,Pass,2024,No
+CU20260641,Diya Bhatia,diya.bhatia0641@student.example.com,19,Male,Business Administration,7,Ambala,68,58,70,68,69,333,500,66.60000000000001,D,Pass,2023,No
+CU20260642,Jaspreet Saini,jaspreet.saini0642@student.example.com,19,Female,Business Administration,4,Ambala,97,91,100,100,100,488,500,97.6,A,Pass,2025,Yes
+CU20260643,Ishaan Kaur,ishaan.kaur0643@student.example.com,18,Female,Electronics & Communication,6,Mohali,74,58,73,50,70,325,500,65.0,D,Pass,2025,No
+CU20260644,Ishaan Mishra,ishaan.mishra0644@student.example.com,20,Female,Information Technology,1,Lucknow,80,49,76,86,62,353,500,70.6,C,Pass,2025,No
+CU20260645,Mohit Mehta,mohit.mehta0645@student.example.com,20,Female,Information Technology,5,Shimla,56,57,63,62,69,307,500,61.4,D,Pass,2024,No
+CU20260646,Yash Das,yash.das0646@student.example.com,21,Male,Mechanical Engineering,3,Jalandhar,65,61,72,87,66,351,500,70.19999999999999,C,Pass,2026,No
+CU20260647,Saanvi Mehta,saanvi.mehta0647@student.example.com,21,Female,Computer Science,4,Lucknow,96,74,100,98,84,452,500,90.4,A,Pass,2022,No
+CU20260648,Aarav Mishra,aarav.mishra0648@student.example.com,21,Male,Computer Science,3,Chandigarh,100,100,100,89,94,483,500,96.6,A,Pass,2023,Yes
+CU20260649,Gurpreet Gupta,gurpreet.gupta0649@student.example.com,19,Male,Information Technology,8,Jalandhar,89,96,95,81,77,438,500,87.6,B,Pass,2025,No
+CU20260650,Abhishek Saini,abhishek.saini0650@student.example.com,18,Male,Business Administration,4,Dehradun,69,58,66,71,50,314,500,62.8,D,Pass,2023,No
+CU20260651,Isha Gupta,isha.gupta0651@student.example.com,20,Female,Mechanical Engineering,2,Mohali,73,74,97,75,67,386,500,77.2,C,Pass,2024,No
+CU20260652,Karan Mehta,karan.mehta0652@student.example.com,19,Male,Business Administration,8,Amritsar,88,60,71,69,81,369,500,73.8,C,Pass,2025,No
+CU20260653,Rohan Chauhan,rohan.chauhan0653@student.example.com,19,Male,Mechanical Engineering,6,Ambala,59,57,73,67,79,335,500,67.0,D,Pass,2025,No
+CU20260654,Yash Arora,yash.arora0654@student.example.com,20,Male,Computer Science,5,Patiala,46,40,56,71,54,267,500,53.400000000000006,E,Pass,2024,No
+CU20260655,Kavya Kaur,kavya.kaur0655@student.example.com,21,Female,Mechanical Engineering,8,Delhi,71,65,65,58,83,342,500,68.4,D,Pass,2025,No
+CU20260656,Riya Verma,riya.verma0656@student.example.com,19,Female,Computer Science,3,Ludhiana,61,57,52,40,62,272,500,54.400000000000006,E,Pass,2022,Yes
+CU20260657,Manpreet Reddy,manpreet.reddy0657@student.example.com,23,Male,Business Administration,3,Amritsar,48,79,80,61,72,340,500,68.0,D,Pass,2025,No
+CU20260658,Aanya Joshi,aanya.joshi0658@student.example.com,22,Female,Electronics & Communication,4,Karnal,72,88,76,83,78,397,500,79.4,C,Pass,2025,Yes
+CU20260659,Aditya Arora,aditya.arora0659@student.example.com,19,Male,Mechanical Engineering,3,Dehradun,69,59,48,72,62,310,500,62.0,D,Pass,2023,No
+CU20260660,Ishaan Kaur,ishaan.kaur0660@student.example.com,20,Male,Information Technology,8,Pune,94,86,96,76,80,432,500,86.4,B,Pass,2022,No
+CU20260661,Ishaan Das,ishaan.das0661@student.example.com,22,Male,Business Administration,8,Chandigarh,38,49,50,61,64,262,500,52.400000000000006,E,Pass,2025,No
+CU20260662,Aditya Arora,aditya.arora0662@student.example.com,22,Female,Mechanical Engineering,3,Dehradun,85,83,100,73,100,441,500,88.2,B,Pass,2025,Yes
+CU20260663,Navya Singh,navya.singh0663@student.example.com,19,Male,Information Technology,2,Karnal,75,67,78,61,77,358,500,71.6,C,Pass,2024,No
+CU20260664,Neha Gupta,neha.gupta0664@student.example.com,20,Female,Mechanical Engineering,5,Ludhiana,55,74,88,62,86,365,500,73.0,C,Pass,2026,No
+CU20260665,Riya Singh,riya.singh0665@student.example.com,20,Female,Mechanical Engineering,6,Shimla,62,48,63,83,63,319,500,63.800000000000004,D,Pass,2024,No
+CU20260666,Aditya Gill,aditya.gill0666@student.example.com,21,Male,Business Administration,5,Jaipur,71,58,64,63,68,324,500,64.8,D,Pass,2025,Yes
+CU20260667,Harpreet Verma,harpreet.verma0667@student.example.com,22,Male,Mechanical Engineering,7,Amritsar,49,50,60,77,73,309,500,61.8,D,Pass,2026,No
+CU20260668,Ananya Joshi,ananya.joshi0668@student.example.com,21,Male,Mechanical Engineering,3,Mohali,79,76,68,75,94,392,500,78.4,C,Pass,2025,No
+CU20260669,Aarav Verma,aarav.verma0669@student.example.com,22,Male,Computer Science,6,Karnal,72,66,84,65,88,375,500,75.0,C,Pass,2026,Yes
+CU20260670,Gurpreet Shah,gurpreet.shah0670@student.example.com,19,Male,Business Administration,1,Amritsar,89,92,78,67,78,404,500,80.80000000000001,B,Pass,2026,No
+CU20260671,Jaspreet Singh,jaspreet.singh0671@student.example.com,19,Male,Mechanical Engineering,4,Shimla,82,73,85,93,100,433,500,86.6,B,Pass,2023,No
+CU20260672,Arjun Nair,arjun.nair0672@student.example.com,20,Male,Electronics & Communication,7,Chandigarh,57,50,57,64,68,296,500,59.199999999999996,E,Pass,2023,No
+CU20260673,Mohit Verma,mohit.verma0673@student.example.com,21,Female,Civil Engineering,4,Delhi,73,58,61,68,60,320,500,64.0,D,Pass,2024,No
+CU20260674,Sahil Bhatia,sahil.bhatia0674@student.example.com,20,Male,Information Technology,6,Shimla,55,43,45,61,42,246,500,49.2,F,Fail,2023,No
+CU20260675,Abhishek Gill,abhishek.gill0675@student.example.com,21,Male,Information Technology,6,Dehradun,75,64,84,83,66,372,500,74.4,C,Pass,2024,No
+CU20260676,Karan Mehta,karan.mehta0676@student.example.com,21,Male,Computer Science,5,Mohali,72,93,81,69,94,409,500,81.8,B,Pass,2025,No
+CU20260677,Riya Nair,riya.nair0677@student.example.com,18,Male,Mechanical Engineering,3,Mohali,47,63,65,72,69,316,500,63.2,D,Pass,2025,No
+CU20260678,Nisha Kaur,nisha.kaur0678@student.example.com,19,Female,Computer Science,7,Dehradun,71,68,80,98,82,399,500,79.80000000000001,C,Pass,2025,No
+CU20260679,Mohit Gupta,mohit.gupta0679@student.example.com,19,Male,Computer Science,7,Jaipur,84,71,83,69,67,374,500,74.8,C,Pass,2024,No
+CU20260680,Kavya Mishra,kavya.mishra0680@student.example.com,20,Male,Information Technology,3,Ambala,88,69,67,77,87,388,500,77.60000000000001,C,Pass,2024,No
+CU20260681,Navya Singh,navya.singh0681@student.example.com,20,Male,Computer Science,1,Patiala,42,51,67,64,57,281,500,56.2,E,Pass,2025,No
+CU20260682,Neha Mishra,neha.mishra0682@student.example.com,19,Male,Electronics & Communication,5,Mohali,78,80,86,63,72,379,500,75.8,C,Pass,2025,No
+CU20260683,Simran Gill,simran.gill0683@student.example.com,20,Female,Business Administration,4,Mohali,69,70,90,64,78,371,500,74.2,C,Pass,2025,No
+CU20260684,Abhishek Reddy,abhishek.reddy0684@student.example.com,22,Female,Computer Science,6,Delhi,53,25,53,47,53,231,500,46.2,F,Fail,2025,No
+CU20260685,Abhishek Mishra,abhishek.mishra0685@student.example.com,22,Female,Computer Science,3,Patiala,82,77,60,86,80,385,500,77.0,C,Pass,2024,No
+CU20260686,Priya Bhatia,priya.bhatia0686@student.example.com,21,Female,Computer Science,7,Patiala,69,75,62,73,83,362,500,72.39999999999999,C,Pass,2022,No
+CU20260687,Ananya Verma,ananya.verma0687@student.example.com,19,Male,Electronics & Communication,6,Shimla,63,47,79,62,53,304,500,60.8,D,Pass,2025,No
+CU20260688,Karan Kaur,karan.kaur0688@student.example.com,21,Male,Mechanical Engineering,4,Ludhiana,70,58,62,83,76,349,500,69.8,D,Pass,2026,No
+CU20260689,Simran Kaur,simran.kaur0689@student.example.com,23,Female,Computer Science,7,Pune,85,81,96,90,83,435,500,87.0,B,Pass,2024,No
+CU20260690,Aditya Shah,aditya.shah0690@student.example.com,21,Male,Civil Engineering,7,Delhi,57,74,56,70,63,320,500,64.0,D,Pass,2023,No
+CU20260691,Jaspreet Shah,jaspreet.shah0691@student.example.com,20,Female,Computer Science,2,Ludhiana,63,67,48,84,52,314,500,62.8,D,Pass,2022,No
+CU20260692,Jaspreet Mishra,jaspreet.mishra0692@student.example.com,21,Male,Computer Science,3,Chandigarh,63,39,68,46,58,274,500,54.800000000000004,E,Pass,2024,No
+CU20260693,Diya Singh,diya.singh0693@student.example.com,21,Female,Computer Science,3,Jalandhar,72,66,79,82,80,379,500,75.8,C,Pass,2022,Yes
+CU20260694,Rohan Arora,rohan.arora0694@student.example.com,22,Female,Computer Science,8,Amritsar,60,53,65,82,62,322,500,64.4,D,Pass,2025,No
+CU20260695,Rohan Reddy,rohan.reddy0695@student.example.com,20,Female,Information Technology,6,Ludhiana,63,73,79,80,73,368,500,73.6,C,Pass,2023,No
+CU20260696,Simran Gupta,simran.gupta0696@student.example.com,22,Male,Information Technology,3,Dehradun,91,83,100,97,97,468,500,93.60000000000001,A,Pass,2024,No
+CU20260697,Simran Singh,simran.singh0697@student.example.com,22,Male,Civil Engineering,5,Shimla,65,64,78,78,81,366,500,73.2,C,Pass,2025,No
+CU20260698,Neha Kaur,neha.kaur0698@student.example.com,21,Female,Computer Science,6,Amritsar,85,61,87,93,76,402,500,80.4,B,Pass,2025,No
+CU20260699,Kavya Kaur,kavya.kaur0699@student.example.com,22,Female,Electronics & Communication,5,Jaipur,77,75,75,82,82,391,500,78.2,C,Pass,2025,No
+CU20260700,Arjun Mishra,arjun.mishra0700@student.example.com,23,Male,Computer Science,7,Jaipur,54,49,64,62,59,288,500,57.599999999999994,E,Pass,2024,No
+CU20260701,Riya Sharma,riya.sharma0701@student.example.com,19,Female,Computer Science,5,Lucknow,66,75,97,80,96,414,500,82.8,B,Pass,2023,No
+CU20260702,Sahil Singh,sahil.singh0702@student.example.com,20,Male,Information Technology,2,Ambala,83,81,66,74,92,396,500,79.2,C,Pass,2025,No
+CU20260703,Diya Gill,diya.gill0703@student.example.com,21,Female,Computer Science,3,Patiala,88,93,91,100,87,459,500,91.8,A,Pass,2022,No
+CU20260704,Riya Reddy,riya.reddy0704@student.example.com,18,Male,Electronics & Communication,8,Chandigarh,58,48,67,77,57,307,500,61.4,D,Pass,2023,No
+CU20260705,Karan Arora,karan.arora0705@student.example.com,21,Female,Electronics & Communication,4,Lucknow,80,89,74,82,100,425,500,85.0,B,Pass,2024,Yes
+CU20260706,Jaspreet Singh,jaspreet.singh0706@student.example.com,20,Male,Business Administration,3,Ambala,68,43,41,68,74,294,500,58.8,E,Pass,2022,No
+CU20260707,Rahul Chauhan,rahul.chauhan0707@student.example.com,19,Male,Electronics & Communication,1,Chandigarh,100,100,100,98,100,498,500,99.6,A,Pass,2023,No
+CU20260708,Kavya Kumar,kavya.kumar0708@student.example.com,22,Male,Computer Science,8,Lucknow,85,77,94,81,74,411,500,82.19999999999999,B,Pass,2025,Yes
+CU20260709,Yash Bhatia,yash.bhatia0709@student.example.com,20,Female,Information Technology,7,Patiala,80,76,77,72,75,380,500,76.0,C,Pass,2024,No
+CU20260710,Riya Kumar,riya.kumar0710@student.example.com,21,Male,Computer Science,7,Amritsar,85,59,79,63,63,349,500,69.8,D,Pass,2026,No
+CU20260711,Isha Joshi,isha.joshi0711@student.example.com,21,Male,Mechanical Engineering,8,Chandigarh,65,56,55,71,74,321,500,64.2,D,Pass,2026,No
+CU20260712,Manpreet Joshi,manpreet.joshi0712@student.example.com,22,Male,Computer Science,8,Lucknow,47,59,52,59,68,285,500,56.99999999999999,E,Pass,2023,Yes
+CU20260713,Isha Sharma,isha.sharma0713@student.example.com,19,Female,Information Technology,7,Amritsar,67,50,71,59,75,322,500,64.4,D,Pass,2024,No
+CU20260714,Karan Gupta,karan.gupta0714@student.example.com,21,Female,Business Administration,2,Ludhiana,68,70,60,61,64,323,500,64.60000000000001,D,Pass,2023,No
+CU20260715,Arjun Singh,arjun.singh0715@student.example.com,21,Female,Business Administration,5,Jalandhar,83,95,76,95,89,438,500,87.6,B,Pass,2025,No
+CU20260716,Mohit Kumar,mohit.kumar0716@student.example.com,19,Female,Computer Science,8,Ambala,64,62,82,61,61,330,500,66.0,D,Pass,2025,No
+CU20260717,Aanya Chauhan,aanya.chauhan0717@student.example.com,18,Male,Electronics & Communication,7,Chandigarh,86,100,99,81,97,463,500,92.60000000000001,A,Pass,2025,Yes
+CU20260718,Manpreet Kumar,manpreet.kumar0718@student.example.com,20,Female,Business Administration,3,Pune,59,79,68,75,63,344,500,68.8,D,Pass,2023,No
+CU20260719,Manpreet Mishra,manpreet.mishra0719@student.example.com,22,Female,Information Technology,1,Shimla,73,79,68,77,67,364,500,72.8,C,Pass,2024,No
+CU20260720,Simran Chauhan,simran.chauhan0720@student.example.com,21,Male,Computer Science,7,Jaipur,66,76,82,69,82,375,500,75.0,C,Pass,2023,No
+CU20260721,Meera Das,meera.das0721@student.example.com,19,Female,Mechanical Engineering,7,Karnal,62,68,67,69,72,338,500,67.60000000000001,D,Pass,2026,Yes
+CU20260722,Meera Kumar,meera.kumar0722@student.example.com,22,Female,Electronics & Communication,4,Chandigarh,63,64,93,78,75,373,500,74.6,C,Pass,2024,No
+CU20260723,Manpreet Verma,manpreet.verma0723@student.example.com,20,Male,Computer Science,4,Mohali,65,50,72,83,97,367,500,73.4,C,Pass,2024,Yes
+CU20260724,Aarav Joshi,aarav.joshi0724@student.example.com,21,Female,Mechanical Engineering,5,Jaipur,66,62,79,48,54,309,500,61.8,D,Pass,2025,No
+CU20260725,Aditya Das,aditya.das0725@student.example.com,20,Female,Information Technology,8,Mohali,73,73,85,100,97,428,500,85.6,B,Pass,2023,No
+CU20260726,Simran Verma,simran.verma0726@student.example.com,22,Male,Computer Science,4,Chandigarh,73,52,70,64,76,335,500,67.0,D,Pass,2025,No
+CU20260727,Aanya Reddy,aanya.reddy0727@student.example.com,21,Female,Information Technology,6,Lucknow,54,76,68,71,70,339,500,67.80000000000001,D,Pass,2023,No
+CU20260728,Rahul Singh,rahul.singh0728@student.example.com,22,Male,Civil Engineering,6,Ambala,48,44,51,64,64,271,500,54.2,E,Pass,2024,Yes
+CU20260729,Saanvi Nair,saanvi.nair0729@student.example.com,22,Female,Business Administration,6,Dehradun,78,61,77,62,81,359,500,71.8,C,Pass,2026,No
+CU20260730,Priya Sharma,priya.sharma0730@student.example.com,21,Female,Civil Engineering,5,Lucknow,89,85,91,92,71,428,500,85.6,B,Pass,2025,No
+CU20260731,Mohit Joshi,mohit.joshi0731@student.example.com,21,Male,Computer Science,4,Patiala,79,78,82,79,99,417,500,83.39999999999999,B,Pass,2024,No
+CU20260732,Priya Das,priya.das0732@student.example.com,21,Male,Electronics & Communication,5,Patiala,53,77,76,71,80,357,500,71.39999999999999,C,Pass,2026,No
+CU20260733,Kavya Nair,kavya.nair0733@student.example.com,20,Female,Mechanical Engineering,2,Chandigarh,66,76,71,64,64,341,500,68.2,D,Pass,2025,No
+CU20260734,Abhishek Nair,abhishek.nair0734@student.example.com,20,Female,Business Administration,5,Lucknow,86,73,70,70,86,385,500,77.0,C,Pass,2025,No
+CU20260735,Riya Arora,riya.arora0735@student.example.com,21,Male,Computer Science,7,Dehradun,93,71,77,63,62,366,500,73.2,C,Pass,2024,No
+CU20260736,Vivaan Patel,vivaan.patel0736@student.example.com,21,Female,Civil Engineering,4,Delhi,66,51,60,57,43,277,500,55.400000000000006,E,Pass,2023,No
+CU20260737,Kavya Mehta,kavya.mehta0737@student.example.com,21,Male,Computer Science,4,Karnal,75,74,78,79,81,387,500,77.4,C,Pass,2024,No
+CU20260738,Harpreet Gupta,harpreet.gupta0738@student.example.com,20,Female,Information Technology,4,Amritsar,67,68,82,69,65,351,500,70.19999999999999,C,Pass,2022,No
+CU20260739,Navya Joshi,navya.joshi0739@student.example.com,18,Female,Information Technology,6,Karnal,62,72,63,62,71,330,500,66.0,D,Pass,2025,Yes
+CU20260740,Vivaan Gill,vivaan.gill0740@student.example.com,20,Male,Business Administration,8,Pune,71,71,73,66,86,367,500,73.4,C,Pass,2026,No
+CU20260741,Aanya Singh,aanya.singh0741@student.example.com,21,Male,Electronics & Communication,5,Dehradun,80,91,76,59,61,367,500,73.4,C,Pass,2022,No
+CU20260742,Aman Singh,aman.singh0742@student.example.com,20,Male,Electronics & Communication,2,Pune,68,41,71,66,78,324,500,64.8,D,Pass,2025,Yes
+CU20260743,Neha Mehta,neha.mehta0743@student.example.com,20,Female,Civil Engineering,3,Lucknow,62,64,72,69,82,349,500,69.8,D,Pass,2022,No
+CU20260744,Meera Bhatia,meera.bhatia0744@student.example.com,22,Female,Mechanical Engineering,8,Amritsar,81,56,77,71,52,337,500,67.4,D,Pass,2025,No
+CU20260745,Gurpreet Das,gurpreet.das0745@student.example.com,22,Male,Mechanical Engineering,6,Lucknow,70,95,100,80,100,445,500,89.0,B,Pass,2026,No
+CU20260746,Navya Das,navya.das0746@student.example.com,21,Male,Computer Science,2,Pune,79,65,95,82,98,419,500,83.8,B,Pass,2025,No
+CU20260747,Aarav Singh,aarav.singh0747@student.example.com,23,Female,Information Technology,7,Karnal,69,80,72,70,82,373,500,74.6,C,Pass,2026,No
+CU20260748,Aarav Singh,aarav.singh0748@student.example.com,22,Male,Information Technology,8,Dehradun,50,72,80,77,85,364,500,72.8,C,Pass,2023,No
+CU20260749,Isha Reddy,isha.reddy0749@student.example.com,21,Male,Electronics & Communication,4,Pune,87,85,89,86,82,429,500,85.8,B,Pass,2024,No
+CU20260750,Meera Das,meera.das0750@student.example.com,18,Male,Computer Science,8,Dehradun,71,61,75,67,68,342,500,68.4,D,Pass,2023,No
+CU20260751,Aarav Chauhan,aarav.chauhan0751@student.example.com,21,Male,Information Technology,8,Delhi,42,50,41,37,50,220,500,44.0,F,Fail,2024,No
+CU20260752,Gurpreet Malhotra,gurpreet.malhotra0752@student.example.com,20,Female,Electronics & Communication,7,Patiala,49,42,51,45,50,237,500,47.4,F,Fail,2023,No
+CU20260753,Neha Das,neha.das0753@student.example.com,20,Male,Computer Science,4,Ambala,63,82,99,77,91,412,500,82.39999999999999,B,Pass,2025,No
+CU20260754,Abhishek Kumar,abhishek.kumar0754@student.example.com,20,Female,Computer Science,6,Delhi,61,74,70,73,82,360,500,72.0,C,Pass,2025,No
+CU20260755,Aditya Chauhan,aditya.chauhan0755@student.example.com,20,Female,Civil Engineering,1,Lucknow,93,71,87,67,75,393,500,78.60000000000001,C,Pass,2024,No
+CU20260756,Karan Nair,karan.nair0756@student.example.com,18,Male,Mechanical Engineering,5,Dehradun,41,40,56,37,48,222,500,44.4,F,Fail,2024,No
+CU20260757,Priya Gill,priya.gill0757@student.example.com,20,Female,Business Administration,1,Karnal,67,67,74,67,59,334,500,66.8,D,Pass,2026,Yes
+CU20260758,Mohit Mehta,mohit.mehta0758@student.example.com,22,Male,Mechanical Engineering,1,Karnal,44,52,63,74,59,292,500,58.4,E,Pass,2024,No
+CU20260759,Priya Mishra,priya.mishra0759@student.example.com,23,Female,Computer Science,2,Jaipur,71,51,84,76,96,378,500,75.6,C,Pass,2023,No
+CU20260760,Meera Nair,meera.nair0760@student.example.com,21,Male,Business Administration,4,Delhi,65,71,88,79,59,362,500,72.39999999999999,C,Pass,2024,No
+CU20260761,Riya Verma,riya.verma0761@student.example.com,21,Female,Business Administration,5,Jaipur,82,84,91,72,97,426,500,85.2,B,Pass,2025,Yes
+CU20260762,Rohan Kaur,rohan.kaur0762@student.example.com,22,Female,Mechanical Engineering,4,Jalandhar,81,79,88,75,87,410,500,82.0,B,Pass,2023,Yes
+CU20260763,Ishaan Malhotra,ishaan.malhotra0763@student.example.com,18,Male,Computer Science,6,Chandigarh,89,74,80,95,77,415,500,83.0,B,Pass,2024,No
+CU20260764,Nisha Joshi,nisha.joshi0764@student.example.com,21,Female,Computer Science,1,Ludhiana,76,66,64,80,69,355,500,71.0,C,Pass,2024,No
+CU20260765,Isha Nair,isha.nair0765@student.example.com,21,Male,Computer Science,4,Amritsar,67,53,54,59,56,289,500,57.8,E,Pass,2025,No
+CU20260766,Ananya Shah,ananya.shah0766@student.example.com,23,Male,Business Administration,7,Delhi,72,72,76,59,62,341,500,68.2,D,Pass,2026,Yes
+CU20260767,Abhishek Patel,abhishek.patel0767@student.example.com,21,Male,Information Technology,4,Mohali,67,62,69,55,77,330,500,66.0,D,Pass,2025,No
+CU20260768,Nisha Nair,nisha.nair0768@student.example.com,22,Female,Information Technology,6,Pune,91,83,72,87,80,413,500,82.6,B,Pass,2026,No
+CU20260769,Jaspreet Patel,jaspreet.patel0769@student.example.com,21,Male,Civil Engineering,5,Ambala,79,100,77,82,100,438,500,87.6,B,Pass,2024,No
+CU20260770,Harpreet Arora,harpreet.arora0770@student.example.com,20,Male,Civil Engineering,2,Dehradun,45,52,66,40,49,252,500,50.4,E,Pass,2025,No
+CU20260771,Aman Bhatia,aman.bhatia0771@student.example.com,20,Female,Computer Science,1,Dehradun,34,54,58,63,73,282,500,56.39999999999999,E,Pass,2024,No
+CU20260772,Kavya Sharma,kavya.sharma0772@student.example.com,19,Male,Electronics & Communication,3,Chandigarh,47,68,78,71,72,336,500,67.2,D,Pass,2022,No
+CU20260773,Vivaan Gupta,vivaan.gupta0773@student.example.com,20,Male,Business Administration,6,Ambala,74,64,71,83,79,371,500,74.2,C,Pass,2026,No
+CU20260774,Gurpreet Gupta,gurpreet.gupta0774@student.example.com,21,Male,Information Technology,5,Karnal,84,63,74,81,86,388,500,77.60000000000001,C,Pass,2026,No
+CU20260775,Aarav Das,aarav.das0775@student.example.com,20,Male,Civil Engineering,1,Pune,73,41,70,54,60,298,500,59.599999999999994,E,Pass,2022,No
+CU20260776,Jaspreet Patel,jaspreet.patel0776@student.example.com,21,Male,Electronics & Communication,4,Ludhiana,100,87,86,84,99,456,500,91.2,A,Pass,2023,Yes
+CU20260777,Meera Gill,meera.gill0777@student.example.com,21,Male,Mechanical Engineering,4,Shimla,61,39,78,60,75,313,500,62.6,D,Pass,2024,No
+CU20260778,Kavya Singh,kavya.singh0778@student.example.com,21,Female,Electronics & Communication,6,Delhi,77,63,54,62,78,334,500,66.8,D,Pass,2025,No
+CU20260779,Vivaan Reddy,vivaan.reddy0779@student.example.com,19,Female,Business Administration,6,Jaipur,41,44,54,60,49,248,500,49.6,F,Fail,2022,No
+CU20260780,Saanvi Singh,saanvi.singh0780@student.example.com,22,Male,Information Technology,7,Ambala,90,99,96,90,84,459,500,91.8,A,Pass,2023,Yes
+CU20260781,Aarav Verma,aarav.verma0781@student.example.com,20,Male,Computer Science,2,Mohali,31,38,49,56,57,231,500,46.2,F,Fail,2025,No
+CU20260782,Abhishek Patel,abhishek.patel0782@student.example.com,18,Male,Electronics & Communication,6,Pune,62,71,52,61,47,293,500,58.599999999999994,E,Pass,2024,No
+CU20260783,Jaspreet Singh,jaspreet.singh0783@student.example.com,19,Female,Electronics & Communication,4,Patiala,95,72,88,82,83,420,500,84.0,B,Pass,2026,No
+CU20260784,Neha Shah,neha.shah0784@student.example.com,19,Male,Electronics & Communication,4,Mohali,73,66,84,68,90,381,500,76.2,C,Pass,2023,No
+CU20260785,Arjun Kaur,arjun.kaur0785@student.example.com,20,Female,Computer Science,1,Dehradun,71,74,70,82,74,371,500,74.2,C,Pass,2026,No
+CU20260786,Diya Patel,diya.patel0786@student.example.com,21,Male,Business Administration,1,Jaipur,63,65,55,63,76,322,500,64.4,D,Pass,2023,Yes
+CU20260787,Meera Mehta,meera.mehta0787@student.example.com,22,Female,Computer Science,6,Karnal,74,58,96,37,83,348,500,69.6,D,Pass,2024,No
+CU20260788,Diya Shah,diya.shah0788@student.example.com,19,Female,Civil Engineering,4,Jaipur,74,50,55,49,57,285,500,56.99999999999999,E,Pass,2022,No
+CU20260789,Navya Malhotra,navya.malhotra0789@student.example.com,20,Male,Civil Engineering,1,Jalandhar,63,50,54,77,71,315,500,63.0,D,Pass,2025,No
+CU20260790,Isha Mehta,isha.mehta0790@student.example.com,20,Male,Electronics & Communication,5,Lucknow,83,96,100,87,78,444,500,88.8,B,Pass,2022,Yes
+CU20260791,Sahil Reddy,sahil.reddy0791@student.example.com,19,Male,Computer Science,7,Jaipur,86,61,63,62,64,336,500,67.2,D,Pass,2025,Yes
+CU20260792,Aarav Sharma,aarav.sharma0792@student.example.com,20,Male,Computer Science,6,Lucknow,72,55,62,61,70,320,500,64.0,D,Pass,2025,No
+CU20260793,Nisha Mishra,nisha.mishra0793@student.example.com,20,Male,Computer Science,5,Karnal,62,46,58,53,67,286,500,57.199999999999996,E,Pass,2024,No
+CU20260794,Karan Patel,karan.patel0794@student.example.com,20,Male,Computer Science,1,Lucknow,46,51,62,64,65,288,500,57.599999999999994,E,Pass,2024,No
+CU20260795,Diya Reddy,diya.reddy0795@student.example.com,18,Male,Computer Science,7,Chandigarh,52,62,68,74,75,331,500,66.2,D,Pass,2026,No
+CU20260796,Kavya Bhatia,kavya.bhatia0796@student.example.com,21,Female,Civil Engineering,8,Patiala,94,79,93,97,80,443,500,88.6,B,Pass,2026,No
+CU20260797,Manpreet Mehta,manpreet.mehta0797@student.example.com,21,Female,Computer Science,7,Jalandhar,77,61,62,75,46,321,500,64.2,D,Pass,2023,Yes
+CU20260798,Nisha Joshi,nisha.joshi0798@student.example.com,21,Female,Information Technology,5,Shimla,59,45,66,67,73,310,500,62.0,D,Pass,2024,No
+CU20260799,Neha Kumar,neha.kumar0799@student.example.com,21,Male,Mechanical Engineering,8,Karnal,100,86,84,91,91,452,500,90.4,A,Pass,2023,No
+CU20260800,Rohan Kumar,rohan.kumar0800@student.example.com,20,Male,Business Administration,5,Mohali,62,86,71,92,90,401,500,80.2,B,Pass,2025,Yes
+CU20260801,Isha Bhatia,isha.bhatia0801@student.example.com,21,Male,Electronics & Communication,5,Dehradun,63,70,59,63,69,324,500,64.8,D,Pass,2023,No
+CU20260802,Isha Mehta,isha.mehta0802@student.example.com,20,Male,Computer Science,7,Jaipur,84,80,83,88,83,418,500,83.6,B,Pass,2022,No
+CU20260803,Meera Singh,meera.singh0803@student.example.com,20,Female,Computer Science,4,Chandigarh,81,69,54,46,66,316,500,63.2,D,Pass,2023,No
+CU20260804,Isha Shah,isha.shah0804@student.example.com,18,Female,Business Administration,7,Ludhiana,85,71,94,84,82,416,500,83.2,B,Pass,2023,Yes
+CU20260805,Manpreet Mehta,manpreet.mehta0805@student.example.com,19,Female,Electronics & Communication,7,Patiala,100,100,88,100,100,488,500,97.6,A,Pass,2025,No
+CU20260806,Kavya Reddy,kavya.reddy0806@student.example.com,20,Male,Electronics & Communication,8,Pune,56,55,53,87,70,321,500,64.2,D,Pass,2026,No
+CU20260807,Manpreet Das,manpreet.das0807@student.example.com,22,Male,Electronics & Communication,3,Amritsar,61,62,57,65,61,306,500,61.199999999999996,D,Pass,2023,No
+CU20260808,Arjun Singh,arjun.singh0808@student.example.com,20,Male,Civil Engineering,6,Amritsar,46,42,57,66,56,267,500,53.400000000000006,E,Pass,2022,No
+CU20260809,Neha Gupta,neha.gupta0809@student.example.com,19,Female,Mechanical Engineering,6,Ludhiana,32,56,57,53,66,264,500,52.800000000000004,E,Pass,2025,No
+CU20260810,Isha Saini,isha.saini0810@student.example.com,21,Male,Civil Engineering,6,Ludhiana,73,63,70,79,67,352,500,70.39999999999999,C,Pass,2026,No
+CU20260811,Aarav Arora,aarav.arora0811@student.example.com,20,Male,Computer Science,8,Jalandhar,72,64,65,56,88,345,500,69.0,D,Pass,2023,No
+CU20260812,Nisha Gill,nisha.gill0812@student.example.com,20,Female,Computer Science,5,Ambala,72,64,82,86,84,388,500,77.60000000000001,C,Pass,2023,Yes
+CU20260813,Aarav Reddy,aarav.reddy0813@student.example.com,21,Female,Information Technology,5,Chandigarh,45,50,60,60,48,263,500,52.6,E,Pass,2026,No
+CU20260814,Ishaan Chauhan,ishaan.chauhan0814@student.example.com,20,Male,Electronics & Communication,1,Mohali,85,56,75,77,82,375,500,75.0,C,Pass,2024,Yes
+CU20260815,Navya Reddy,navya.reddy0815@student.example.com,19,Male,Civil Engineering,5,Amritsar,70,48,75,61,73,327,500,65.4,D,Pass,2024,Yes
+CU20260816,Aditya Gill,aditya.gill0816@student.example.com,21,Male,Civil Engineering,7,Dehradun,59,90,82,81,100,412,500,82.39999999999999,B,Pass,2024,Yes
+CU20260817,Karan Gupta,karan.gupta0817@student.example.com,22,Female,Information Technology,2,Karnal,85,78,78,76,97,414,500,82.8,B,Pass,2022,Yes
+CU20260818,Karan Mehta,karan.mehta0818@student.example.com,18,Female,Information Technology,3,Karnal,61,80,69,87,66,363,500,72.6,C,Pass,2022,No
+CU20260819,Karan Mehta,karan.mehta0819@student.example.com,21,Male,Civil Engineering,8,Karnal,47,54,52,75,68,296,500,59.199999999999996,E,Pass,2026,No
+CU20260820,Rohan Kumar,rohan.kumar0820@student.example.com,21,Female,Civil Engineering,3,Jalandhar,83,79,95,92,68,417,500,83.39999999999999,B,Pass,2022,Yes
+CU20260821,Kavya Mishra,kavya.mishra0821@student.example.com,20,Female,Civil Engineering,5,Dehradun,41,38,48,38,51,216,500,43.2,F,Fail,2026,No
+CU20260822,Aman Mishra,aman.mishra0822@student.example.com,21,Male,Electronics & Communication,5,Dehradun,79,78,89,76,79,401,500,80.2,B,Pass,2026,No
+CU20260823,Arjun Gupta,arjun.gupta0823@student.example.com,19,Male,Computer Science,6,Mohali,72,50,67,62,76,327,500,65.4,D,Pass,2024,No
+CU20260824,Harpreet Kumar,harpreet.kumar0824@student.example.com,22,Male,Computer Science,3,Jalandhar,68,96,72,74,79,389,500,77.8,C,Pass,2024,No
+CU20260825,Priya Shah,priya.shah0825@student.example.com,19,Male,Civil Engineering,5,Chandigarh,61,74,67,70,85,357,500,71.39999999999999,C,Pass,2022,No
+CU20260826,Simran Nair,simran.nair0826@student.example.com,20,Male,Information Technology,5,Dehradun,78,62,63,49,66,318,500,63.6,D,Pass,2025,No
+CU20260827,Priya Gill,priya.gill0827@student.example.com,18,Male,Information Technology,8,Patiala,52,31,51,48,55,237,500,47.4,F,Fail,2025,No
+CU20260828,Manpreet Nair,manpreet.nair0828@student.example.com,25,Male,Business Administration,6,Lucknow,74,54,69,55,64,316,500,63.2,D,Pass,2024,No
+CU20260829,Karan Verma,karan.verma0829@student.example.com,24,Male,Electronics & Communication,3,Amritsar,66,65,74,63,75,343,500,68.60000000000001,D,Pass,2023,No
+CU20260830,Saanvi Nair,saanvi.nair0830@student.example.com,21,Male,Computer Science,3,Ludhiana,87,91,98,76,79,431,500,86.2,B,Pass,2025,No
+CU20260831,Simran Chauhan,simran.chauhan0831@student.example.com,22,Male,Information Technology,4,Mohali,47,46,60,37,57,247,500,49.4,F,Fail,2024,Yes
+CU20260832,Jaspreet Mehta,jaspreet.mehta0832@student.example.com,22,Female,Civil Engineering,6,Delhi,86,72,77,70,94,399,500,79.80000000000001,C,Pass,2022,Yes
+CU20260833,Meera Chauhan,meera.chauhan0833@student.example.com,22,Male,Civil Engineering,1,Shimla,45,54,45,72,71,287,500,57.4,E,Pass,2025,Yes
+CU20260834,Neha Patel,neha.patel0834@student.example.com,21,Female,Electronics & Communication,6,Lucknow,66,84,84,81,89,404,500,80.80000000000001,B,Pass,2023,No
+CU20260835,Manpreet Gill,manpreet.gill0835@student.example.com,20,Male,Information Technology,1,Chandigarh,96,75,86,77,73,407,500,81.39999999999999,B,Pass,2025,No
+CU20260836,Aarav Patel,aarav.patel0836@student.example.com,23,Male,Civil Engineering,7,Chandigarh,65,62,77,61,59,324,500,64.8,D,Pass,2026,No
+CU20260837,Meera Gupta,meera.gupta0837@student.example.com,21,Male,Business Administration,3,Jaipur,100,91,100,88,86,465,500,93.0,A,Pass,2024,No
+CU20260838,Aarav Singh,aarav.singh0838@student.example.com,23,Male,Business Administration,6,Patiala,89,66,75,79,77,386,500,77.2,C,Pass,2025,No
+CU20260839,Rahul Saini,rahul.saini0839@student.example.com,20,Male,Information Technology,5,Ludhiana,84,84,78,87,87,420,500,84.0,B,Pass,2022,No
+CU20260840,Rahul Shah,rahul.shah0840@student.example.com,22,Female,Computer Science,5,Pune,100,100,93,100,100,493,500,98.6,A,Pass,2024,No
+CU20260841,Arjun Kumar,arjun.kumar0841@student.example.com,21,Female,Business Administration,6,Jalandhar,57,86,53,70,81,347,500,69.39999999999999,D,Pass,2024,No
+CU20260842,Aarav Singh,aarav.singh0842@student.example.com,19,Female,Computer Science,4,Shimla,79,76,46,56,41,298,500,59.599999999999994,E,Pass,2025,No
+CU20260843,Ishaan Saini,ishaan.saini0843@student.example.com,22,Female,Electronics & Communication,7,Ludhiana,75,67,72,68,72,354,500,70.8,C,Pass,2025,No
+CU20260844,Diya Joshi,diya.joshi0844@student.example.com,20,Male,Civil Engineering,7,Jaipur,63,57,59,55,46,280,500,56.00000000000001,E,Pass,2023,Yes
+CU20260845,Ishaan Chauhan,ishaan.chauhan0845@student.example.com,19,Female,Information Technology,3,Mohali,57,50,60,45,52,264,500,52.800000000000004,E,Pass,2025,No
+CU20260846,Abhishek Das,abhishek.das0846@student.example.com,19,Female,Electronics & Communication,3,Jaipur,61,77,79,61,80,358,500,71.6,C,Pass,2024,Yes
+CU20260847,Yash Joshi,yash.joshi0847@student.example.com,20,Male,Electronics & Communication,3,Chandigarh,76,69,83,75,73,376,500,75.2,C,Pass,2024,Yes
+CU20260848,Navya Das,navya.das0848@student.example.com,21,Male,Civil Engineering,5,Patiala,70,79,77,52,68,346,500,69.19999999999999,D,Pass,2026,No
+CU20260849,Meera Patel,meera.patel0849@student.example.com,21,Male,Information Technology,4,Ambala,64,60,87,91,81,383,500,76.6,C,Pass,2024,No
+CU20260850,Simran Gupta,simran.gupta0850@student.example.com,21,Female,Information Technology,1,Jaipur,60,63,71,70,76,340,500,68.0,D,Pass,2025,No
+CU20260851,Yash Sharma,yash.sharma0851@student.example.com,23,Female,Business Administration,6,Jalandhar,81,64,81,61,76,363,500,72.6,C,Pass,2025,No
+CU20260852,Harpreet Gupta,harpreet.gupta0852@student.example.com,18,Female,Business Administration,3,Dehradun,76,99,95,83,90,443,500,88.6,B,Pass,2026,Yes
+CU20260853,Arjun Das,arjun.das0853@student.example.com,24,Female,Computer Science,1,Amritsar,64,61,56,69,59,309,500,61.8,D,Pass,2025,No
+CU20260854,Karan Mishra,karan.mishra0854@student.example.com,19,Female,Computer Science,4,Ludhiana,86,92,97,89,92,456,500,91.2,A,Pass,2024,No
+CU20260855,Manpreet Verma,manpreet.verma0855@student.example.com,20,Female,Civil Engineering,7,Karnal,64,61,48,54,54,281,500,56.2,E,Pass,2022,No
+CU20260856,Ishaan Arora,ishaan.arora0856@student.example.com,22,Female,Civil Engineering,3,Pune,68,59,86,77,74,364,500,72.8,C,Pass,2024,No
+CU20260857,Aanya Gupta,aanya.gupta0857@student.example.com,20,Male,Computer Science,5,Delhi,46,46,61,44,62,259,500,51.800000000000004,E,Pass,2025,No
+CU20260858,Manpreet Nair,manpreet.nair0858@student.example.com,20,Male,Computer Science,2,Ambala,76,65,78,72,82,373,500,74.6,C,Pass,2022,Yes
+CU20260859,Ananya Arora,ananya.arora0859@student.example.com,23,Female,Mechanical Engineering,2,Ambala,90,61,100,70,98,419,500,83.8,B,Pass,2023,No
+CU20260860,Rahul Sharma,rahul.sharma0860@student.example.com,18,Male,Information Technology,5,Lucknow,81,73,64,93,73,384,500,76.8,C,Pass,2025,No
+CU20260861,Arjun Chauhan,arjun.chauhan0861@student.example.com,21,Male,Civil Engineering,5,Karnal,78,71,86,70,93,398,500,79.60000000000001,C,Pass,2024,No
+CU20260862,Vivaan Kumar,vivaan.kumar0862@student.example.com,19,Male,Computer Science,3,Dehradun,72,53,56,70,87,338,500,67.60000000000001,D,Pass,2022,Yes
+CU20260863,Ananya Kaur,ananya.kaur0863@student.example.com,22,Female,Information Technology,5,Pune,66,59,59,62,69,315,500,63.0,D,Pass,2026,No
+CU20260864,Jaspreet Reddy,jaspreet.reddy0864@student.example.com,20,Female,Electronics & Communication,4,Jalandhar,75,54,72,78,65,344,500,68.8,D,Pass,2024,Yes
+CU20260865,Manpreet Chauhan,manpreet.chauhan0865@student.example.com,21,Female,Computer Science,7,Delhi,83,64,100,72,100,419,500,83.8,B,Pass,2022,No
+CU20260866,Aman Malhotra,aman.malhotra0866@student.example.com,21,Male,Civil Engineering,7,Lucknow,89,84,91,92,98,454,500,90.8,A,Pass,2024,Yes
+CU20260867,Riya Shah,riya.shah0867@student.example.com,21,Male,Computer Science,8,Shimla,67,66,71,86,100,390,500,78.0,C,Pass,2024,Yes
+CU20260868,Yash Joshi,yash.joshi0868@student.example.com,22,Female,Computer Science,1,Lucknow,57,64,72,55,72,320,500,64.0,D,Pass,2026,No
+CU20260869,Nisha Shah,nisha.shah0869@student.example.com,22,Male,Electronics & Communication,3,Jaipur,83,68,64,72,86,373,500,74.6,C,Pass,2026,No
+CU20260870,Kavya Bhatia,kavya.bhatia0870@student.example.com,22,Male,Information Technology,7,Karnal,64,55,37,59,66,281,500,56.2,E,Pass,2023,No
+CU20260871,Neha Kaur,neha.kaur0871@student.example.com,23,Female,Information Technology,4,Lucknow,67,47,67,76,87,344,500,68.8,D,Pass,2025,No
+CU20260872,Jaspreet Kumar,jaspreet.kumar0872@student.example.com,19,Female,Business Administration,4,Shimla,69,52,58,69,80,328,500,65.60000000000001,D,Pass,2026,No
+CU20260873,Yash Nair,yash.nair0873@student.example.com,21,Female,Computer Science,8,Chandigarh,66,58,66,63,52,305,500,61.0,D,Pass,2024,No
+CU20260874,Rahul Chauhan,rahul.chauhan0874@student.example.com,20,Male,Computer Science,4,Delhi,76,63,64,78,72,353,500,70.6,C,Pass,2023,No
+CU20260875,Sahil Bhatia,sahil.bhatia0875@student.example.com,20,Male,Business Administration,5,Amritsar,65,60,76,71,85,357,500,71.39999999999999,C,Pass,2022,No
+CU20260876,Aditya Gill,aditya.gill0876@student.example.com,20,Female,Mechanical Engineering,6,Pune,73,53,65,80,74,345,500,69.0,D,Pass,2022,No
+CU20260877,Meera Mehta,meera.mehta0877@student.example.com,21,Female,Information Technology,7,Dehradun,57,67,71,58,60,313,500,62.6,D,Pass,2024,No
+CU20260878,Gurpreet Das,gurpreet.das0878@student.example.com,21,Female,Electronics & Communication,1,Karnal,63,85,74,72,75,369,500,73.8,C,Pass,2025,No
+CU20260879,Neha Das,neha.das0879@student.example.com,20,Male,Information Technology,6,Dehradun,66,53,62,66,74,321,500,64.2,D,Pass,2024,Yes
+CU20260880,Simran Chauhan,simran.chauhan0880@student.example.com,18,Male,Computer Science,6,Jalandhar,57,57,46,38,60,258,500,51.6,E,Pass,2022,No
+CU20260881,Diya Nair,diya.nair0881@student.example.com,21,Male,Computer Science,1,Pune,90,77,76,73,85,401,500,80.2,B,Pass,2026,No
+CU20260882,Aditya Arora,aditya.arora0882@student.example.com,21,Male,Mechanical Engineering,2,Chandigarh,68,71,95,97,62,393,500,78.60000000000001,C,Pass,2023,No
+CU20260883,Priya Mehta,priya.mehta0883@student.example.com,21,Male,Information Technology,7,Jaipur,85,71,68,74,43,341,500,68.2,D,Pass,2025,No
+CU20260884,Meera Malhotra,meera.malhotra0884@student.example.com,20,Female,Business Administration,6,Amritsar,64,70,78,58,67,337,500,67.4,D,Pass,2025,No
+CU20260885,Ananya Malhotra,ananya.malhotra0885@student.example.com,20,Female,Computer Science,3,Ludhiana,75,54,75,57,67,328,500,65.60000000000001,D,Pass,2025,No
+CU20260886,Manpreet Das,manpreet.das0886@student.example.com,21,Female,Information Technology,4,Jalandhar,44,22,34,43,66,209,500,41.8,F,Fail,2026,No
+CU20260887,Isha Arora,isha.arora0887@student.example.com,18,Female,Computer Science,7,Patiala,79,91,85,68,70,393,500,78.60000000000001,C,Pass,2023,No
+CU20260888,Aman Kumar,aman.kumar0888@student.example.com,22,Female,Mechanical Engineering,4,Jalandhar,64,74,66,85,61,350,500,70.0,C,Pass,2022,No
+CU20260889,Riya Das,riya.das0889@student.example.com,18,Male,Computer Science,1,Amritsar,54,49,56,69,69,297,500,59.4,E,Pass,2025,No
+CU20260890,Riya Mishra,riya.mishra0890@student.example.com,19,Female,Electronics & Communication,4,Chandigarh,61,38,56,56,49,260,500,52.0,E,Pass,2022,No
+CU20260891,Karan Saini,karan.saini0891@student.example.com,24,Female,Computer Science,3,Ludhiana,76,43,77,70,56,322,500,64.4,D,Pass,2026,No
+CU20260892,Navya Kumar,navya.kumar0892@student.example.com,21,Male,Information Technology,7,Shimla,71,62,55,58,62,308,500,61.6,D,Pass,2026,No
+CU20260893,Ananya Gupta,ananya.gupta0893@student.example.com,22,Female,Business Administration,2,Delhi,67,54,38,62,55,276,500,55.2,E,Pass,2023,No
+CU20260894,Ishaan Malhotra,ishaan.malhotra0894@student.example.com,20,Female,Computer Science,4,Jalandhar,76,63,59,98,89,385,500,77.0,C,Pass,2026,No
+CU20260895,Arjun Verma,arjun.verma0895@student.example.com,20,Female,Computer Science,5,Delhi,63,94,67,63,73,360,500,72.0,C,Pass,2024,No
+CU20260896,Arjun Das,arjun.das0896@student.example.com,19,Male,Electronics & Communication,4,Chandigarh,54,59,70,67,75,325,500,65.0,D,Pass,2025,No
+CU20260897,Saanvi Kaur,saanvi.kaur0897@student.example.com,21,Male,Computer Science,1,Amritsar,92,65,85,85,87,414,500,82.8,B,Pass,2023,No
+CU20260898,Gurpreet Joshi,gurpreet.joshi0898@student.example.com,22,Male,Electronics & Communication,5,Jaipur,58,68,67,57,70,320,500,64.0,D,Pass,2025,No
+CU20260899,Ananya Mehta,ananya.mehta0899@student.example.com,19,Male,Computer Science,7,Amritsar,57,54,59,62,52,284,500,56.8,E,Pass,2025,No
+CU20260900,Meera Singh,meera.singh0900@student.example.com,20,Male,Mechanical Engineering,5,Dehradun,73,64,69,59,91,356,500,71.2,C,Pass,2026,No
+CU20260901,Simran Joshi,simran.joshi0901@student.example.com,18,Male,Computer Science,7,Ludhiana,62,62,48,72,76,320,500,64.0,D,Pass,2024,No
+CU20260902,Manpreet Sharma,manpreet.sharma0902@student.example.com,20,Female,Business Administration,8,Patiala,65,66,66,84,85,366,500,73.2,C,Pass,2025,No
+CU20260903,Arjun Nair,arjun.nair0903@student.example.com,22,Male,Information Technology,3,Pune,75,74,62,70,77,358,500,71.6,C,Pass,2023,No
+CU20260904,Yash Nair,yash.nair0904@student.example.com,19,Male,Information Technology,4,Lucknow,75,88,85,70,67,385,500,77.0,C,Pass,2025,No
+CU20260905,Vivaan Gupta,vivaan.gupta0905@student.example.com,18,Male,Computer Science,4,Patiala,50,48,62,53,55,268,500,53.6,E,Pass,2025,No
+CU20260906,Riya Shah,riya.shah0906@student.example.com,22,Male,Computer Science,1,Jalandhar,84,70,73,86,84,397,500,79.4,C,Pass,2024,No
+CU20260907,Ishaan Reddy,ishaan.reddy0907@student.example.com,20,Male,Electronics & Communication,8,Jalandhar,55,64,69,63,66,317,500,63.4,D,Pass,2023,No
+CU20260908,Sahil Singh,sahil.singh0908@student.example.com,19,Male,Mechanical Engineering,8,Shimla,34,32,44,33,42,185,500,37.0,F,Fail,2026,No
+CU20260909,Karan Mishra,karan.mishra0909@student.example.com,18,Female,Civil Engineering,4,Lucknow,95,87,100,97,91,470,500,94.0,A,Pass,2023,No
+CU20260910,Rohan Malhotra,rohan.malhotra0910@student.example.com,20,Female,Computer Science,8,Shimla,66,32,58,58,62,276,500,55.2,E,Pass,2024,No
+CU20260911,Isha Joshi,isha.joshi0911@student.example.com,22,Female,Civil Engineering,2,Patiala,49,71,61,53,66,300,500,60.0,D,Pass,2025,No
+CU20260912,Harpreet Mehta,harpreet.mehta0912@student.example.com,20,Female,Computer Science,5,Pune,73,76,86,74,85,394,500,78.8,C,Pass,2024,No
+CU20260913,Kavya Bhatia,kavya.bhatia0913@student.example.com,22,Male,Computer Science,3,Dehradun,100,92,84,91,98,465,500,93.0,A,Pass,2023,No
+CU20260914,Arjun Patel,arjun.patel0914@student.example.com,20,Male,Information Technology,4,Ambala,40,51,39,64,60,254,500,50.8,E,Pass,2024,Yes
+CU20260915,Manpreet Verma,manpreet.verma0915@student.example.com,20,Male,Information Technology,7,Shimla,56,55,61,65,52,289,500,57.8,E,Pass,2024,No
+CU20260916,Isha Kaur,isha.kaur0916@student.example.com,21,Male,Computer Science,3,Lucknow,86,64,81,72,86,389,500,77.8,C,Pass,2025,No
+CU20260917,Vivaan Verma,vivaan.verma0917@student.example.com,22,Female,Computer Science,5,Chandigarh,66,72,63,84,84,369,500,73.8,C,Pass,2026,No
+CU20260918,Arjun Gupta,arjun.gupta0918@student.example.com,23,Female,Electronics & Communication,6,Mohali,82,92,90,83,81,428,500,85.6,B,Pass,2024,No
+CU20260919,Harpreet Kaur,harpreet.kaur0919@student.example.com,21,Male,Information Technology,2,Ambala,68,75,83,59,59,344,500,68.8,D,Pass,2026,Yes
+CU20260920,Priya Joshi,priya.joshi0920@student.example.com,20,Female,Information Technology,2,Delhi,56,56,63,63,69,307,500,61.4,D,Pass,2023,Yes
+CU20260921,Priya Malhotra,priya.malhotra0921@student.example.com,21,Female,Electronics & Communication,5,Pune,59,69,51,77,60,316,500,63.2,D,Pass,2024,No
+CU20260922,Karan Mishra,karan.mishra0922@student.example.com,21,Male,Information Technology,7,Jaipur,56,62,35,45,51,249,500,49.8,F,Fail,2025,Yes
+CU20260923,Ishaan Reddy,ishaan.reddy0923@student.example.com,18,Female,Information Technology,7,Pune,52,34,72,68,57,283,500,56.599999999999994,E,Pass,2026,No
+CU20260924,Simran Nair,simran.nair0924@student.example.com,20,Female,Computer Science,2,Ambala,54,55,60,67,80,316,500,63.2,D,Pass,2025,No
+CU20260925,Jaspreet Singh,jaspreet.singh0925@student.example.com,21,Male,Mechanical Engineering,6,Delhi,87,88,84,97,95,451,500,90.2,A,Pass,2025,No
+CU20260926,Saanvi Saini,saanvi.saini0926@student.example.com,20,Male,Computer Science,5,Mohali,71,100,90,69,95,425,500,85.0,B,Pass,2024,No
+CU20260927,Manpreet Bhatia,manpreet.bhatia0927@student.example.com,21,Female,Computer Science,6,Karnal,89,100,81,100,100,470,500,94.0,A,Pass,2024,Yes
+CU20260928,Arjun Patel,arjun.patel0928@student.example.com,19,Male,Electronics & Communication,4,Shimla,63,49,59,66,63,300,500,60.0,D,Pass,2026,No
+CU20260929,Saanvi Gupta,saanvi.gupta0929@student.example.com,20,Male,Business Administration,7,Delhi,69,49,78,77,70,343,500,68.60000000000001,D,Pass,2025,No
+CU20260930,Sahil Shah,sahil.shah0930@student.example.com,18,Female,Business Administration,2,Dehradun,95,86,90,85,100,456,500,91.2,A,Pass,2026,Yes
+CU20260931,Diya Mishra,diya.mishra0931@student.example.com,22,Male,Electronics & Communication,5,Karnal,62,73,73,46,74,328,500,65.60000000000001,D,Pass,2023,No
+CU20260932,Navya Singh,navya.singh0932@student.example.com,23,Female,Computer Science,8,Pune,86,83,87,78,94,428,500,85.6,B,Pass,2023,No
+CU20260933,Ishaan Gill,ishaan.gill0933@student.example.com,20,Male,Computer Science,3,Ludhiana,64,65,43,61,75,308,500,61.6,D,Pass,2023,No
+CU20260934,Meera Joshi,meera.joshi0934@student.example.com,20,Female,Electronics & Communication,6,Mohali,56,53,55,52,78,294,500,58.8,E,Pass,2024,No
+CU20260935,Abhishek Gill,abhishek.gill0935@student.example.com,20,Male,Information Technology,5,Amritsar,59,58,73,55,75,320,500,64.0,D,Pass,2022,No
+CU20260936,Neha Patel,neha.patel0936@student.example.com,18,Male,Mechanical Engineering,1,Dehradun,80,81,88,91,92,432,500,86.4,B,Pass,2023,Yes
+CU20260937,Simran Verma,simran.verma0937@student.example.com,20,Male,Computer Science,6,Jaipur,48,53,35,42,56,234,500,46.800000000000004,F,Fail,2023,No
+CU20260938,Riya Sharma,riya.sharma0938@student.example.com,22,Female,Information Technology,2,Patiala,85,67,74,69,82,377,500,75.4,C,Pass,2022,No
+CU20260939,Aditya Reddy,aditya.reddy0939@student.example.com,21,Female,Computer Science,4,Pune,80,68,84,73,76,381,500,76.2,C,Pass,2026,No
+CU20260940,Mohit Mehta,mohit.mehta0940@student.example.com,21,Female,Computer Science,4,Chandigarh,54,63,67,55,73,312,500,62.4,D,Pass,2024,No
+CU20260941,Simran Saini,simran.saini0941@student.example.com,20,Male,Electronics & Communication,1,Pune,30,50,37,29,47,193,500,38.6,F,Fail,2024,No
+CU20260942,Rohan Verma,rohan.verma0942@student.example.com,22,Male,Information Technology,6,Karnal,87,85,78,81,77,408,500,81.6,B,Pass,2025,No
+CU20260943,Ananya Nair,ananya.nair0943@student.example.com,22,Female,Computer Science,1,Karnal,71,61,45,62,77,316,500,63.2,D,Pass,2023,No
+CU20260944,Ananya Malhotra,ananya.malhotra0944@student.example.com,21,Female,Civil Engineering,5,Shimla,87,89,100,95,90,461,500,92.2,A,Pass,2022,No
+CU20260945,Rohan Patel,rohan.patel0945@student.example.com,19,Male,Computer Science,2,Patiala,85,87,87,89,100,448,500,89.60000000000001,B,Pass,2025,No
+CU20260946,Sahil Kumar,sahil.kumar0946@student.example.com,20,Female,Civil Engineering,5,Ambala,47,67,72,81,87,354,500,70.8,C,Pass,2022,Yes
+CU20260947,Priya Gill,priya.gill0947@student.example.com,20,Male,Electronics & Communication,6,Amritsar,61,67,64,52,61,305,500,61.0,D,Pass,2022,No
+CU20260948,Ishaan Mehta,ishaan.mehta0948@student.example.com,23,Female,Mechanical Engineering,8,Dehradun,97,91,72,87,98,445,500,89.0,B,Pass,2023,No
+CU20260949,Gurpreet Patel,gurpreet.patel0949@student.example.com,21,Male,Civil Engineering,5,Lucknow,66,72,75,67,66,346,500,69.19999999999999,D,Pass,2024,No
+CU20260950,Harpreet Mishra,harpreet.mishra0950@student.example.com,18,Male,Business Administration,3,Ludhiana,91,66,85,67,66,375,500,75.0,C,Pass,2023,No
+CU20260951,Diya Kumar,diya.kumar0951@student.example.com,20,Male,Mechanical Engineering,4,Ambala,66,77,90,76,82,391,500,78.2,C,Pass,2026,No
+CU20260952,Abhishek Singh,abhishek.singh0952@student.example.com,20,Male,Mechanical Engineering,2,Ludhiana,80,77,91,76,96,420,500,84.0,B,Pass,2026,No
+CU20260953,Arjun Bhatia,arjun.bhatia0953@student.example.com,21,Female,Civil Engineering,6,Pune,62,61,54,48,52,277,500,55.400000000000006,E,Pass,2025,No
+CU20260954,Aditya Bhatia,aditya.bhatia0954@student.example.com,21,Male,Computer Science,3,Karnal,76,70,61,47,53,307,500,61.4,D,Pass,2023,No
+CU20260955,Rahul Malhotra,rahul.malhotra0955@student.example.com,22,Female,Information Technology,4,Shimla,85,67,83,93,88,416,500,83.2,B,Pass,2026,No
+CU20260956,Ishaan Arora,ishaan.arora0956@student.example.com,19,Male,Information Technology,4,Karnal,67,83,84,69,71,374,500,74.8,C,Pass,2026,No
+CU20260957,Kavya Gupta,kavya.gupta0957@student.example.com,20,Male,Computer Science,6,Ambala,73,53,50,63,53,292,500,58.4,E,Pass,2024,No
+CU20260958,Rohan Gill,rohan.gill0958@student.example.com,19,Male,Computer Science,7,Jalandhar,62,46,55,48,70,281,500,56.2,E,Pass,2025,No
+CU20260959,Priya Reddy,priya.reddy0959@student.example.com,23,Female,Electronics & Communication,3,Delhi,68,74,89,91,76,398,500,79.60000000000001,C,Pass,2025,No
+CU20260960,Yash Gupta,yash.gupta0960@student.example.com,21,Male,Computer Science,5,Jalandhar,71,82,77,72,79,381,500,76.2,C,Pass,2023,No
+CU20260961,Kavya Mishra,kavya.mishra0961@student.example.com,22,Female,Business Administration,1,Shimla,52,55,60,63,61,291,500,58.199999999999996,E,Pass,2022,No
+CU20260962,Kavya Gupta,kavya.gupta0962@student.example.com,20,Male,Business Administration,3,Shimla,59,70,78,69,65,341,500,68.2,D,Pass,2023,No
+CU20260963,Simran Shah,simran.shah0963@student.example.com,19,Male,Electronics & Communication,1,Patiala,52,70,68,56,83,329,500,65.8,D,Pass,2025,No
+CU20260964,Rahul Sharma,rahul.sharma0964@student.example.com,20,Female,Information Technology,7,Chandigarh,64,67,63,66,77,337,500,67.4,D,Pass,2022,No
+CU20260965,Jaspreet Das,jaspreet.das0965@student.example.com,18,Female,Computer Science,5,Jaipur,81,72,83,85,90,411,500,82.19999999999999,B,Pass,2023,Yes
+CU20260966,Meera Kaur,meera.kaur0966@student.example.com,19,Female,Civil Engineering,1,Lucknow,73,63,71,63,92,362,500,72.39999999999999,C,Pass,2025,No
+CU20260967,Riya Kaur,riya.kaur0967@student.example.com,18,Female,Mechanical Engineering,4,Chandigarh,92,68,73,73,92,398,500,79.60000000000001,C,Pass,2025,No
+CU20260968,Harpreet Saini,harpreet.saini0968@student.example.com,20,Male,Computer Science,5,Amritsar,59,55,47,55,78,294,500,58.8,E,Pass,2026,No
+CU20260969,Aanya Reddy,aanya.reddy0969@student.example.com,21,Male,Computer Science,7,Karnal,78,88,100,86,96,448,500,89.60000000000001,B,Pass,2025,Yes
+CU20260970,Sahil Gill,sahil.gill0970@student.example.com,22,Female,Electronics & Communication,3,Amritsar,81,68,66,92,89,396,500,79.2,C,Pass,2023,No
+CU20260971,Isha Chauhan,isha.chauhan0971@student.example.com,19,Male,Computer Science,7,Lucknow,75,55,58,71,66,325,500,65.0,D,Pass,2025,No
+CU20260972,Neha Gupta,neha.gupta0972@student.example.com,20,Male,Information Technology,3,Mohali,59,68,69,86,78,360,500,72.0,C,Pass,2025,No
+CU20260973,Aditya Gill,aditya.gill0973@student.example.com,22,Female,Computer Science,1,Dehradun,100,76,68,76,82,402,500,80.4,B,Pass,2022,No
+CU20260974,Rahul Saini,rahul.saini0974@student.example.com,20,Male,Mechanical Engineering,5,Lucknow,59,49,40,41,50,239,500,47.8,F,Fail,2023,No
+CU20260975,Neha Mishra,neha.mishra0975@student.example.com,20,Female,Computer Science,3,Ludhiana,81,87,91,96,86,441,500,88.2,B,Pass,2024,Yes
+CU20260976,Karan Arora,karan.arora0976@student.example.com,20,Female,Electronics & Communication,8,Lucknow,92,80,88,83,93,436,500,87.2,B,Pass,2026,No
+CU20260977,Isha Kaur,isha.kaur0977@student.example.com,20,Male,Computer Science,6,Patiala,56,56,61,61,63,297,500,59.4,E,Pass,2024,No
+CU20260978,Karan Kumar,karan.kumar0978@student.example.com,20,Male,Civil Engineering,2,Chandigarh,92,61,94,98,92,437,500,87.4,B,Pass,2026,No
+CU20260979,Sahil Gupta,sahil.gupta0979@student.example.com,21,Male,Computer Science,2,Jalandhar,54,66,57,60,68,305,500,61.0,D,Pass,2025,No
+CU20260980,Manpreet Kumar,manpreet.kumar0980@student.example.com,20,Female,Information Technology,5,Jalandhar,52,55,46,59,62,274,500,54.800000000000004,E,Pass,2025,No
+CU20260981,Mohit Shah,mohit.shah0981@student.example.com,20,Male,Electronics & Communication,5,Chandigarh,55,67,57,45,44,268,500,53.6,E,Pass,2023,No
+CU20260982,Mohit Shah,mohit.shah0982@student.example.com,20,Female,Information Technology,2,Jalandhar,62,56,60,72,64,314,500,62.8,D,Pass,2022,No
+CU20260983,Yash Saini,yash.saini0983@student.example.com,20,Male,Information Technology,7,Karnal,58,69,67,74,84,352,500,70.39999999999999,C,Pass,2026,No
+CU20260984,Neha Gupta,neha.gupta0984@student.example.com,21,Male,Business Administration,5,Delhi,78,65,74,63,56,336,500,67.2,D,Pass,2023,No
+CU20260985,Mohit Arora,mohit.arora0985@student.example.com,21,Male,Electronics & Communication,7,Ludhiana,38,59,50,43,72,262,500,52.400000000000006,E,Pass,2023,No
+CU20260986,Isha Shah,isha.shah0986@student.example.com,20,Male,Electronics & Communication,1,Delhi,70,54,70,70,67,331,500,66.2,D,Pass,2024,No
+CU20260987,Harpreet Reddy,harpreet.reddy0987@student.example.com,22,Female,Electronics & Communication,6,Chandigarh,79,39,70,63,76,327,500,65.4,D,Pass,2024,No
+CU20260988,Neha Mishra,neha.mishra0988@student.example.com,21,Female,Electronics & Communication,6,Jaipur,66,58,63,54,64,305,500,61.0,D,Pass,2025,No
+CU20260989,Vivaan Saini,vivaan.saini0989@student.example.com,20,Female,Computer Science,6,Lucknow,76,77,89,94,80,416,500,83.2,B,Pass,2024,No
+CU20260990,Nisha Sharma,nisha.sharma0990@student.example.com,21,Male,Mechanical Engineering,5,Karnal,78,88,78,72,74,390,500,78.0,C,Pass,2024,No
+CU20260991,Riya Patel,riya.patel0991@student.example.com,21,Male,Computer Science,7,Delhi,60,47,70,75,67,319,500,63.800000000000004,D,Pass,2025,No
+CU20260992,Priya Joshi,priya.joshi0992@student.example.com,24,Female,Mechanical Engineering,4,Ambala,93,100,96,100,85,474,500,94.8,A,Pass,2025,No
+CU20260993,Rohan Bhatia,rohan.bhatia0993@student.example.com,18,Male,Electronics & Communication,5,Mohali,73,91,89,93,95,441,500,88.2,B,Pass,2024,No
+CU20260994,Isha Reddy,isha.reddy0994@student.example.com,22,Male,Mechanical Engineering,5,Lucknow,54,43,46,61,52,256,500,51.2,E,Pass,2023,No
+CU20260995,Diya Shah,diya.shah0995@student.example.com,23,Male,Business Administration,8,Ludhiana,94,100,92,100,93,479,500,95.8,A,Pass,2026,No
+CU20260996,Abhishek Das,abhishek.das0996@student.example.com,20,Male,Electronics & Communication,7,Pune,61,45,61,69,66,302,500,60.4,D,Pass,2024,No
+CU20260997,Neha Nair,neha.nair0997@student.example.com,22,Female,Business Administration,7,Dehradun,86,64,99,64,98,411,500,82.19999999999999,B,Pass,2022,Yes
+CU20260998,Simran Saini,simran.saini0998@student.example.com,21,Female,Mechanical Engineering,7,Dehradun,56,70,56,71,82,335,500,67.0,D,Pass,2026,No
+CU20260999,Harpreet Kaur,harpreet.kaur0999@student.example.com,21,Male,Computer Science,7,Jaipur,86,77,92,89,71,415,500,83.0,B,Pass,2024,No
+CU20261000,Vivaan Nair,vivaan.nair1000@student.example.com,23,Male,Information Technology,8,Pune,98,84,81,83,78,424,500,84.8,B,Pass,2023,No
